@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a6325c58.css",
-    "main.js": "/portfolio/static/js/main.558cf88d.js",
+    "main.js": "/portfolio/static/js/main.8c8ae9e7.js",
     "static/media/KanupriyaJamwalCV2022.pdf": "/portfolio/static/media/KanupriyaJamwalCV2022.48ffd8b259869a22ef4c.pdf",
     "static/media/design.jpg": "/portfolio/static/media/design.1d1ce6e220938a096720.jpg",
     "static/media/kids-save-money.jpeg": "/portfolio/static/media/kids-save-money.19dbcb65dc45d5f4a265.jpeg",
@@ -9,10 +9,10 @@
     "static/media/illustration.jpg": "/portfolio/static/media/illustration.9b6cb933abc679e7fc9d.jpg",
     "index.html": "/portfolio/index.html",
     "main.a6325c58.css.map": "/portfolio/static/css/main.a6325c58.css.map",
-    "main.558cf88d.js.map": "/portfolio/static/js/main.558cf88d.js.map"
+    "main.8c8ae9e7.js.map": "/portfolio/static/js/main.8c8ae9e7.js.map"
   },
   "entrypoints": [
     "static/css/main.a6325c58.css",
-    "static/js/main.558cf88d.js"
+    "static/js/main.8c8ae9e7.js"
   ]
 }
