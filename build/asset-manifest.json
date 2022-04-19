@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f1c87319.css",
+    "main.js": "/portfolio/static/js/main.94385e3d.js",
+    "static/media/kanupriya-portrait1.jpeg": "/portfolio/static/media/kanupriya-portrait1.355dc392e830e2e0f657.jpeg",
+    "static/media/KanupriyaJamwalCV2022.pdf": "/portfolio/static/media/KanupriyaJamwalCV2022.48ffd8b259869a22ef4c.pdf",
+    "static/media/hybrid-system.png": "/portfolio/static/media/hybrid-system.1a00ee3f3858d2ee8ace.png",
+    "static/media/design.jpg": "/portfolio/static/media/design.1d1ce6e220938a096720.jpg",
+    "static/media/kids-save-money.jpeg": "/portfolio/static/media/kids-save-money.19dbcb65dc45d5f4a265.jpeg",
+    "static/media/kanupriya-portrait.jpeg": "/portfolio/static/media/kanupriya-portrait.922c9b2d527c403724ec.jpeg",
+    "static/media/illustration.jpg": "/portfolio/static/media/illustration.9b6cb933abc679e7fc9d.jpg",
+    "static/media/proactive.png": "/portfolio/static/media/proactive.2a52b34983e72e119e9e.png",
+    "index.html": "/portfolio/index.html",
+    "main.f1c87319.css.map": "/portfolio/static/css/main.f1c87319.css.map",
+    "main.94385e3d.js.map": "/portfolio/static/js/main.94385e3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c87319.css",
+    "static/js/main.94385e3d.js"
+  ]
+}
