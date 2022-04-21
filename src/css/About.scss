@@ -2,8 +2,8 @@
 
 .projects-wrapper-about {
   margin-top: 125px;
-  //@extend .offset-3;
-  //padding: 30px 30px 30px 30px;
+  align-items: center;
+  padding-right: 50px;
 }
 
 .header {
@@ -12,6 +12,8 @@
 
 .bio-text h1 {
   color: $off-black;
+  padding: 16px;
+  text-align:center;
 }
 
 .about-group {
@@ -60,7 +62,7 @@
 // Mobile screens
 @media screen and (max-width: 768px) {
   .projects-wrapper-about {
-    margin-top: 0px;
+    padding: 16px;
   }
   .about-group.col-8.nested {
     display: flex;

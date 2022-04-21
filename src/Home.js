@@ -14,7 +14,7 @@ class Test extends Component {
             </h1>
           </div>
           <div className="header-image-wrapper">
-            <div className="header-image portrait"></div>
+            <div className="header-image"></div>
           </div>
         </header>
         <section className="projects-wrapper">

@@ -6,7 +6,7 @@ class About extends Component {
   render() {
     return (
       <div>
-        <section className="projects-wrapper projects-wrapper-about">
+        <section className="projects-wrapper projects-wrapper-about nested">
           <div>
             <ul className="about-modules col-8 offset-1 nested">
               <div className="about-group col-8 nested">
@@ -15,7 +15,13 @@ class About extends Component {
                     HI! My name is <strong>*chika-chika*</strong> Kanupriya
                     Jamwal
                   </h1>
-                  <h2 style={{ marginTop: "32px", color: "#FF5783" }}>
+                  <h2
+                    style={{
+                      textAlign: "center",
+                      marginTop: "32px",
+                      color: "#FF5783",
+                    }}
+                  >
                     I like to watch movies.
                   </h2>
                 </li>

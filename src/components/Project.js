@@ -9,6 +9,7 @@ import ATMForKids from "../projects/ATMForKids";
 class ProjectContainer extends Component {
   _getProjectName = (project) => {
     const path = window.location.pathname;
+    console.log(path.split("/").pop());
     return path;
   };
 

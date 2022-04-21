@@ -33,7 +33,7 @@ class Hired extends Component {
             To tackle this problem and to personalise Job searching and hiring
             experience, we proposed a recommendation system approach where most
             suitable jobs will be recommended to freshers while the most
-            suitable candidate profile will be suggested to the employer.{" "}
+            suitable candidate profile will be suggested to the employer.
             <br></br>
             <br></br>
             <span>
@@ -44,7 +44,20 @@ class Hired extends Component {
           </p>
 
           <p className="reflections col-2">
-            Basically, we wanted LinkedIn, but for college placements.
+            <br></br>
+            <br></br>
+            Employee recruitment as we know it today originated as a product of
+            World War II
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            And then there were resumes
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            And then there was the internet
           </p>
         </div>
 
@@ -67,7 +80,7 @@ class Hired extends Component {
             </li>
           </ul>
           <p className="reflections col-2">
-            Basically, we wanted LinkedIn, but for college placements.
+            Other Recommendation Systems: Netflix, YouTube, Bumble and Amazon
           </p>
         </div>
 
@@ -399,7 +412,12 @@ class Hired extends Component {
           </p>
         </div>
 
-        <h2 className="large-spacer-top col-5">Conclusion and Future Work</h2>
+        <h2 className="large-spacer-top col-5">
+          Conclusion and Future Work
+          <span role="img" aria-label="future">
+            🔮
+          </span>
+        </h2>
         <div className="text-group">
           <p className="large-paragraph medium-spacer-bottom col-5">
             <span>
@@ -440,7 +458,14 @@ class Hired extends Component {
           </p>
 
           <p className="reflections col-2">
-            Basically, we wanted LinkedIn, but for college placements.
+            <br></br>
+            <br></br>
+            Next time, I'd gather as much real time user data as possible.
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>I hope potential recruiters read the entire page and hire
+            me.
           </p>
         </div>
       </section>
