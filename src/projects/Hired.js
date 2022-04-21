@@ -270,10 +270,179 @@ class Hired extends Component {
             </li>
           </ul>
         </div>
-        <h1>
-          The rest is under development. Sorry! We'll update this page (and the
-          rest of the site) soon!
-        </h1>
+
+        <h2 className="large-spacer-top col-5">Analysis and Diagrams</h2>
+        <div className="text-group">
+          <div className="col-5 medium-spacer-bottom small-spacer-top">
+            <img
+              className="project-image"
+              alt="Signing Up Use Case Diagram"
+              src={require("../assets/images/hired/signup-uc.png")}
+            />
+          </div>
+          <p className="reflections col-2">Signing Up Use Case Diagram</p>
+        </div>
+
+        <div className="text-group">
+          <div className="col-5 medium-spacer-bottom small-spacer-top">
+            <img
+              className="project-image"
+              alt="Sequence diagram for CFR"
+              src={require("../assets/images/hired/seq-diag-cfr.png")}
+            />
+          </div>
+          <p className="reflections col-2">Sequence diagram for CFR</p>
+        </div>
+
+        <div className="text-group">
+          <div className="col-5 medium-spacer-bottom small-spacer-top">
+            <img
+              className="project-image"
+              alt="Sequence diagram for interaction of CFR"
+              src={require("../assets/images/hired/seq-diag-interaction-cfr.png")}
+            />
+          </div>
+          <p className="reflections col-2">
+            Sequence diagram for interaction of CFR
+          </p>
+        </div>
+
+        <h2 className="large-spacer-top col-5">Architecture Design</h2>
+        <div className="text-group">
+          <div className="col-5 medium-spacer-bottom small-spacer-top">
+            <img
+              className="project-image"
+              alt="Architecture Design"
+              src={require("../assets/images/hired/architecture.png")}
+            />
+          </div>
+        </div>
+
+        <h2 className="large-spacer-top col-5">UI Prototypes</h2>
+        <div className="text-group">
+          <div className="col-5 medium-spacer-bottom small-spacer-top">
+            <img
+              className="project-image"
+              alt="Candidate Home Page UI"
+              src={require("../assets/images/hired/candidate-home-ui.png")}
+            />
+          </div>
+          <p className="reflections col-2">Candidate Home Page UI</p>
+        </div>
+
+        <div className="text-group">
+          <div className="col-5 medium-spacer-bottom small-spacer-top">
+            <img
+              className="project-image"
+              alt="Signed In Job List (Candidate) UI"
+              src={require("../assets/images/hired/signed-in-jobs.png")}
+            />
+          </div>
+          <p className="reflections col-2">Signed In Job List (Candidate) UI</p>
+        </div>
+
+        <div className="text-group">
+          <div className="col-5 medium-spacer-bottom small-spacer-top">
+            <img
+              className="project-image"
+              alt="Recruiter Home Page UI"
+              src={require("../assets/images/hired/recruiter-home-ui.png")}
+            />
+          </div>
+          <p className="reflections col-2">Recruiter Home Page UI</p>
+        </div>
+
+        <div className="text-group">
+          <div className="col-5 medium-spacer-bottom small-spacer-top">
+            <img
+              className="project-image"
+              alt="Signed In Job List (Recruiter) UI"
+              src={require("../assets/images/hired/signed-in-jobs-rc.png")}
+            />
+          </div>
+          <p className="reflections col-2">Signed In Job List (Recruiter) UI</p>
+        </div>
+
+        <h2 className="large-spacer-top col-5">Implementation</h2>
+        <div className="text-group">
+          <div className="col-5 medium-spacer-bottom small-spacer-top">
+            <img
+              className="project-image"
+              alt="Implementation"
+              src={require("../assets/images/hired/impl1.png")}
+            />
+          </div>
+          <p className="reflections col-2">
+            <a
+              className="social-media-link"
+              href="https://github.com/KanupriyaJamwal/Hired.git"
+            >
+              Click here to check the code
+            </a>
+          </p>
+        </div>
+        <div className="text-group">
+          <div className="col-5 medium-spacer-bottom small-spacer-top">
+            <img
+              className="project-image"
+              alt="Implementation"
+              src={require("../assets/images/hired/impl2.png")}
+            />
+          </div>
+          <p className="reflections col-2">
+            <a
+              className="social-media-link"
+              href="https://github.com/KanupriyaJamwal/Hired.git"
+            >
+              Click here to check the code
+            </a>
+          </p>
+        </div>
+
+        <h2 className="large-spacer-top col-5">Conclusion and Future Work</h2>
+        <div className="text-group">
+          <p className="large-paragraph medium-spacer-bottom col-5">
+            <span>
+              <h3>01</h3>
+            </span>
+            In the Information Technology industry, there are a lot of different
+            specialization fields and job profiles. These specific recruitment
+            opportunities may be missed by the existing job recruitment systems
+            as they are very generalized. Our project focuses on the IT field
+            specifically and proposes a platform that caters to IT specialists
+            and other similar fields.
+            <br></br>
+            <br></br>
+            <span>
+              <h3>02</h3>
+            </span>
+            The proposed framework for Job Recommendation System is aimed at
+            bridging the gap between employees and employers. The responses
+            returned by the system were acceptable within a certain margin of
+            error. Further studies into the topic can help enhance the precision
+            of the system. <br></br>
+            <br></br>
+            <span>
+              <h3>03</h3>
+            </span>
+            The efforts were put to take into consideration the job preferences
+            of the candidates along with the content based profile matching. It
+            along with increasing the prediction accuracy also helped to solve
+            the problem of providing direction to the candidates who are not
+            clear about their job goals as general group preferences are
+            imposed. However, in the case of candidates having exceptional path
+            carriers, the system adapts itself by focusing on their latest job
+            preference behavior and providing them the list of recommendations
+            accordingly. Tracking the present preferences of the candidate
+            regarding the job, helps to prioritize only the relevant jobs as
+            against the irrelevant jobs that are shortlisted after the content
+            based matching of the candidate.
+          </p>
+
+          <p className="reflections col-2">
+            Basically, we wanted LinkedIn, but for college placements.
+          </p>
+        </div>
       </section>
     );
   }
