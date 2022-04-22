@@ -32,7 +32,7 @@ class Illustration extends Component {
                 <div className="col-3 project-title">
                   <h6 className="active">Illustration</h6>
                   <h2>Cleopatrons</h2>
-                  <p>If Cleopatra was not the queen</p>
+                  <p>If Cleopatra was not queen</p>
                 </div>
               </Link>
             </li>

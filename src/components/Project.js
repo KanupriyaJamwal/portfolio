@@ -2,14 +2,14 @@ import React, { Component } from "react";
 import "../css/Project.scss";
 import { Link } from "react-router-dom";
 import hired from "../images/hired_stamp.png";
-import atmforkids from "../images/kids-save-money.jpeg";
+import atmforkids from "../images/banksy.png";
 import Hired from "../projects/Hired";
 import ATMForKids from "../projects/ATMForKids";
 
 class ProjectContainer extends Component {
   _getProjectName = (project) => {
     const path = window.location.pathname;
-    console.log(path.split("/").pop());
+    //console.log(path.split("/").pop());
     return path;
   };
 
@@ -34,9 +34,9 @@ class ProjectContainer extends Component {
       case "/project/atm_for_kids":
         project = (
           <Project
-            title="Banksy - ATM For Kids"
+            title="Banksy"
             header={atmforkids}
-            description="Give me money"
+            description="ATM For Kids"
             body={<ATMForKids />}
             prev_title="Before ATM? Home for now"
             prev_link="/"

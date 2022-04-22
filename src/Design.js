@@ -45,8 +45,8 @@ class Design extends Component {
                 <div className="col-3 project-thumb-fixed">
                   <img
                     className="project-thumb"
-                    alt="For an HCI project, we made UI and prototype for an ATM for kids"
-                    src={require("./images/kids-save-money.jpeg")}
+                    alt="For an HCI project, we made UI and prototype for an Banksy"
+                    src={require("./images/banksy.png")}
                   />
                 </div>
                 <div className="col-3 project-title">

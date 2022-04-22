@@ -14,7 +14,7 @@ class Test extends Component {
             </h1>
           </div>
           <div className="header-image-wrapper">
-            <div className="header-image"></div>
+            <div className="header-image portrait"></div>
           </div>
         </header>
         <section className="projects-wrapper">
@@ -48,12 +48,12 @@ class Test extends Component {
                   <img
                     className="project-thumb"
                     alt="For an HCI project, we made UI and prototype for an ATM for kids"
-                    src={require("./images/kids-save-money.jpeg")}
+                    src={require("./images/banksy.png")}
                   />
                 </div>
                 <div className="col-3 project-title">
                   <h6 className="active">Design</h6>
-                  <h2>ATM for kids</h2>
+                  <h2>Banksy</h2>
                   <p>Even kids need money now</p>
                 </div>
               </Link>
@@ -74,7 +74,7 @@ class Test extends Component {
                 <div className="col-3 project-title">
                   <h6 className="active">Illustration</h6>
                   <h2>Cleopatrons</h2>
-                  <p>If Cleopatra was not the queen</p>
+                  <p>If Cleopatra was not queen</p>
                 </div>
               </Link>
             </li>

@@ -382,23 +382,6 @@ class Hired extends Component {
             <img
               className="project-image"
               alt="Implementation"
-              src={require("../assets/images/hired/impl1.png")}
-            />
-          </div>
-          <p className="reflections col-2">
-            <a
-              className="social-media-link"
-              href="https://github.com/KanupriyaJamwal/Hired.git"
-            >
-              Click here to check the code
-            </a>
-          </p>
-        </div>
-        <div className="text-group">
-          <div className="col-5 medium-spacer-bottom small-spacer-top">
-            <img
-              className="project-image"
-              alt="Implementation"
               src={require("../assets/images/hired/impl2.png")}
             />
           </div>
