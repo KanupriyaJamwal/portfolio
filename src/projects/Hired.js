@@ -389,6 +389,7 @@ class Hired extends Component {
             <a
               className="social-media-link"
               href="https://github.com/KanupriyaJamwal/Hired.git"
+              target="blank"
             >
               Click here to check the code
             </a>

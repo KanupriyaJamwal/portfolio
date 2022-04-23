@@ -48,7 +48,7 @@ class Test extends Component {
                   <img
                     className="project-thumb"
                     alt="For an HCI project, we made UI and prototype for an ATM for kids"
-                    src={require("./images/banksy.png")}
+                    src={require("./images/banksy.jpg")}
                   />
                 </div>
                 <div className="col-3 project-title">

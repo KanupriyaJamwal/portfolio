@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "../css/Project.scss";
 import { Link } from "react-router-dom";
 import hired from "../images/hired_stamp.png";
-import atmforkids from "../images/banksy.png";
+import atmforkids from "../images/banksy.jpg";
 import Hired from "../projects/Hired";
 import ATMForKids from "../projects/ATMForKids";
 
@@ -26,8 +26,8 @@ class ProjectContainer extends Component {
             body={<Hired />}
             prev_title="Before hired? home for now"
             prev_link="/"
-            next_title="After hired about for now"
-            next_link="/about/"
+            next_title="Banksy"
+            next_link="/project/atm_for_kids"
           />
         );
         break;
@@ -38,10 +38,10 @@ class ProjectContainer extends Component {
             header={atmforkids}
             description="ATM For Kids"
             body={<ATMForKids />}
-            prev_title="Before ATM? Home for now"
-            prev_link="/"
+            prev_title="Hired"
+            prev_link="/project/hired"
             next_title="After ATM about for now"
-            next_link="/about/"
+            next_link="/about"
           />
         );
         break;
@@ -87,7 +87,7 @@ class Project extends Component {
               </div>
             </Link>
           </li>
-          <li className="project col-4 nested next-project" s>
+          <li className="project col-4 nested next-project">
             <Link className="shelf-project-link" to={this.props.next_link}>
               <div className="right-text col-3">
                 <h2>{this.props.next_title}</h2>

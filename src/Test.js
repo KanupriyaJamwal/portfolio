@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "./Project.scss";
 import { Link, useParams } from "react-router-dom";
 
-import hired from "../images/banksy.png";
+import hired from "../images/banksy.jpg";
 import Hired from "../projects/Hired";
 
 class ProjectContainer extends Component {
