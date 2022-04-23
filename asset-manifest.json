@@ -1,17 +1,38 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.65a94564.css",
-    "main.js": "/portfolio/static/js/main.0db6700c.js",
+    "main.js": "/portfolio/static/js/main.b4491caa.js",
     "static/media/KanupriyaJamwalCV2022.pdf": "/portfolio/static/media/KanupriyaJamwalCV2022.48ffd8b259869a22ef4c.pdf",
     "static/media/kanupriya-portrait1.jpeg": "/portfolio/static/media/kanupriya-portrait1.aeaa7e8b3b07b9288c98.jpeg",
     "static/media/hybrid-system.png": "/portfolio/static/media/hybrid-system.1a00ee3f3858d2ee8ace.png",
     "static/media/design.jpg": "/portfolio/static/media/design.1d1ce6e220938a096720.jpg",
     "static/media/candidate-home-ui.png": "/portfolio/static/media/candidate-home-ui.138e8ad440a0a46d44b1.png",
     "static/media/kanupriya-portrait.jpeg": "/portfolio/static/media/kanupriya-portrait.922c9b2d527c403724ec.jpeg",
+    "static/media/hci17.jpg": "/portfolio/static/media/hci17.44c15e8b0f548b8a39bb.jpg",
+    "static/media/hci19.jpg": "/portfolio/static/media/hci19.b418afdf160a560b4bba.jpg",
+    "static/media/hci3.jpg": "/portfolio/static/media/hci3.5dd81eed420864e5d131.jpg",
+    "static/media/hci18.jpg": "/portfolio/static/media/hci18.df20c6169facb18a5eca.jpg",
+    "static/media/hci16.jpg": "/portfolio/static/media/hci16.7abfb654ea0cabc8126b.jpg",
+    "static/media/hci2.jpg": "/portfolio/static/media/hci2.cef88cc3a61957066d1f.jpg",
+    "static/media/hci10.jpg": "/portfolio/static/media/hci10.7a6e0350a9d80aed3284.jpg",
+    "static/media/hci15.jpg": "/portfolio/static/media/hci15.527308f4a0db9ea35849.jpg",
+    "static/media/hci20.jpg": "/portfolio/static/media/hci20.3827b5e4ae5ed866e923.jpg",
     "static/media/impl2.png": "/portfolio/static/media/impl2.ddde809a2edd6754e590.png",
     "static/media/recruiter-home-ui.png": "/portfolio/static/media/recruiter-home-ui.22bb966ab7c3712bcb29.png",
+    "static/media/hci12.jpg": "/portfolio/static/media/hci12.b48c651cf48083dedec7.jpg",
+    "static/media/hci6.jpg": "/portfolio/static/media/hci6.5584da93a0b22cf5421c.jpg",
+    "static/media/hci11.jpg": "/portfolio/static/media/hci11.295781048434aa8a59df.jpg",
+    "static/media/hci9.jpg": "/portfolio/static/media/hci9.93be039679a4e2aef044.jpg",
+    "static/media/hci13.jpg": "/portfolio/static/media/hci13.cdc6be08886352251ace.jpg",
     "static/media/architecture.png": "/portfolio/static/media/architecture.d33c7226bb1ffda2f03b.png",
-    "static/media/banksy.png": "/portfolio/static/media/banksy.f649cd08eb17c77bbbf7.png",
+    "static/media/hci4.jpg": "/portfolio/static/media/hci4.cb8fd7b803d5b6c317bb.jpg",
+    "static/media/hci8.jpg": "/portfolio/static/media/hci8.3d4ccef818fe30e577c7.jpg",
+    "static/media/hci7.jpg": "/portfolio/static/media/hci7.bd9ac366f9d9fffd273c.jpg",
+    "static/media/hci1.jpg": "/portfolio/static/media/hci1.0d480ac15fe0f49b9d7d.jpg",
+    "static/media/hci5.jpg": "/portfolio/static/media/hci5.0e82721bfbfc3bb2cbe8.jpg",
+    "static/media/hci14.jpg": "/portfolio/static/media/hci14.98bf489ebd9da3d835f6.jpg",
+    "static/media/banksy.jpg": "/portfolio/static/media/banksy.e151a43a87c1df00e1cd.jpg",
+    "static/media/hci21.jpg": "/portfolio/static/media/hci21.e151a43a87c1df00e1cd.jpg",
     "static/media/signed-in-jobs-rc.png": "/portfolio/static/media/signed-in-jobs-rc.ef5a1446b059055b875a.png",
     "static/media/illustration.jpg": "/portfolio/static/media/illustration.9b6cb933abc679e7fc9d.jpg",
     "static/media/hired_stamp.png": "/portfolio/static/media/hired_stamp.aaac6dc96d7a266d021e.png",
@@ -23,10 +44,10 @@
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.201026e60d5c5760a9a0.png",
     "index.html": "/portfolio/index.html",
     "main.65a94564.css.map": "/portfolio/static/css/main.65a94564.css.map",
-    "main.0db6700c.js.map": "/portfolio/static/js/main.0db6700c.js.map"
+    "main.b4491caa.js.map": "/portfolio/static/js/main.b4491caa.js.map"
   },
   "entrypoints": [
     "static/css/main.65a94564.css",
-    "static/js/main.0db6700c.js"
+    "static/js/main.b4491caa.js"
   ]
 }
