@@ -5,7 +5,12 @@ import Design from "./Design";
 import DoesNotExist from "./DoesNotExist";
 import Illustration from "./Illustration";
 import ProjectContainer from "./components/Project";
-import { BrowserRouter as Router, Link, Route, Routes } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Route,
+  Routes,
+  NavLink,
+} from "react-router-dom";
 //import ScrollToTop from "./ScrollToTop";
 import "./css/Navigation.scss";
 
@@ -15,10 +20,10 @@ class AppRouter extends Component {
       <Router>
         <div className="page-wrapper">
           <nav class="navigation col-2">
-            <Link to="/">Home</Link>
-            <Link to="/about">About</Link>
-            <Link to="/design">Design</Link>
-            <Link to="/illustration">Illustration</Link>
+            <NavLink to="/">Home</NavLink>
+            <NavLink to="/about">About</NavLink>
+            <NavLink to="/design">Design</NavLink>
+            <NavLink to="/illustration">Illustration</NavLink>
           </nav>
           <Routes>
             <Route exact path="/" element={<Home />} />

@@ -1,10 +1,11 @@
 import React, { Component } from "react";
 import "../css/Project.scss";
-import { Link } from "react-router-dom";
 import hired from "../images/hired_stamp.png";
 import atmforkids from "../images/banksy.jpg";
+import cleopatrons from "../images/cleopatrons.jpg";
 import Hired from "../projects/Hired";
 import ATMForKids from "../projects/ATMForKids";
+import Cleopatrons from "../projects/Cleopatrons";
 
 class ProjectContainer extends Component {
   _getProjectName = (project) => {
@@ -24,8 +25,8 @@ class ProjectContainer extends Component {
             header={hired}
             description="A Job Recommendation System"
             body={<Hired />}
-            prev_title="Before hired? home for now"
-            prev_link="/"
+            prev_title="Cleopatrons"
+            prev_link="/project/cleopatrons"
             next_title="Banksy"
             next_link="/project/atm_for_kids"
           />
@@ -40,8 +41,22 @@ class ProjectContainer extends Component {
             body={<ATMForKids />}
             prev_title="Hired"
             prev_link="/project/hired"
-            next_title="After ATM about for now"
-            next_link="/about"
+            next_title="Cleopatrons"
+            next_link="/project/cleopatrons"
+          />
+        );
+        break;
+      case "/project/cleopatrons":
+        project = (
+          <Project
+            title="Cleopatrons"
+            header={cleopatrons}
+            description="Cleopatra as a bartender"
+            body={<Cleopatrons />}
+            prev_title="Banksy"
+            prev_link="/project/atm_for_kids"
+            next_title="Hired"
+            next_link="/project/hired"
           />
         );
         break;
@@ -78,24 +93,24 @@ class Project extends Component {
         <p>{this.props.body}</p>
         <section className="col-8 nested offset-neg-1 next-shelf">
           <li className="project col-4 nested prev-project">
-            <Link className="shelf-project-link" to={this.props.prev_link}>
+            <a className="shelf-project-link" href={this.props.prev_link}>
               <div className="col-1">
                 <h6 className="active">Previous</h6>
               </div>
               <div className="col-3">
                 <h2>{this.props.prev_title}</h2>
               </div>
-            </Link>
+            </a>
           </li>
           <li className="project col-4 nested next-project">
-            <Link className="shelf-project-link" to={this.props.next_link}>
+            <a className="shelf-project-link" href={this.props.next_link}>
               <div className="right-text col-3">
                 <h2>{this.props.next_title}</h2>
               </div>
               <div className="next-shelf-label col-1">
                 <h6 className="active">Next</h6>
               </div>
-            </Link>
+            </a>
           </li>
         </section>
       </div>

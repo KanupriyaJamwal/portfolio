@@ -21,12 +21,12 @@ class Illustration extends Component {
               <div className="project-number col-1">
                 <h3>01</h3>
               </div>
-              <Link className="project-link fixed" to="/about">
+              <Link className="project-link fixed" to="/project/cleopatrons">
                 <div className="col-3 project-thumb-fixed">
                   <img
                     className="project-thumb"
                     alt="Cleopatra would be a bartender with mad patrons around"
-                    src={require("./images/cleo.jpg")}
+                    src={require("./images/cleopatrons.jpg")}
                   />
                 </div>
                 <div className="col-3 project-title">
