@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.65a94564.css",
-    "main.js": "/portfolio/static/js/main.55ed9f6d.js",
+    "main.css": "/portfolio/static/css/main.4a660053.css",
+    "main.js": "/portfolio/static/js/main.a6fc98fd.js",
     "static/media/aubrey-with-a-headband.jpg": "/portfolio/static/media/aubrey-with-a-headband.4c8200fcd48dbc98199e.jpg",
     "static/media/cleopatrons.jpg": "/portfolio/static/media/cleopatrons.a32a8ccf2ab00f059e07.jpg",
     "static/media/cleopatra-bartender-sketch.jpg": "/portfolio/static/media/cleopatra-bartender-sketch.c68b36ed7b5379177e97.jpg",
@@ -48,6 +48,7 @@
     "static/media/signed-in-jobs-rc.png": "/portfolio/static/media/signed-in-jobs-rc.d546a844b7d3224032b3.png",
     "static/media/signed-in-jobs.png": "/portfolio/static/media/signed-in-jobs.9479de6f49c53b49167f.png",
     "static/media/seq-diag-cfr.png": "/portfolio/static/media/seq-diag-cfr.2644c44bdf37aab111d8.png",
+    "static/media/deuce-logo.jpg": "/portfolio/static/media/deuce-logo.94a5d07072a1d58d64dd.jpg",
     "static/media/cleo-and-tonys-bar.png": "/portfolio/static/media/cleo-and-tonys-bar.916b43d62eafc9b12458.png",
     "static/media/seq-diag-interaction-cfr.png": "/portfolio/static/media/seq-diag-interaction-cfr.95651c95e61ef646c821.png",
     "static/media/proactive.png": "/portfolio/static/media/proactive.65ff3c7cfeef9c2bc60c.png",
@@ -56,11 +57,11 @@
     "static/media/cleo-a2.png": "/portfolio/static/media/cleo-a2.0f4e65902d8141f289ca.png",
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
-    "main.65a94564.css.map": "/portfolio/static/css/main.65a94564.css.map",
-    "main.55ed9f6d.js.map": "/portfolio/static/js/main.55ed9f6d.js.map"
+    "main.4a660053.css.map": "/portfolio/static/css/main.4a660053.css.map",
+    "main.a6fc98fd.js.map": "/portfolio/static/js/main.a6fc98fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.65a94564.css",
-    "static/js/main.55ed9f6d.js"
+    "static/css/main.4a660053.css",
+    "static/js/main.a6fc98fd.js"
   ]
 }
