@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.65a94564.css",
-    "main.js": "/portfolio/static/js/main.6b218dda.js",
+    "main.js": "/portfolio/static/js/main.55ed9f6d.js",
     "static/media/aubrey-with-a-headband.jpg": "/portfolio/static/media/aubrey-with-a-headband.4c8200fcd48dbc98199e.jpg",
     "static/media/cleopatrons.jpg": "/portfolio/static/media/cleopatrons.a32a8ccf2ab00f059e07.jpg",
     "static/media/cleopatra-bartender-sketch.jpg": "/portfolio/static/media/cleopatra-bartender-sketch.c68b36ed7b5379177e97.jpg",
@@ -57,10 +57,10 @@
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
     "main.65a94564.css.map": "/portfolio/static/css/main.65a94564.css.map",
-    "main.6b218dda.js.map": "/portfolio/static/js/main.6b218dda.js.map"
+    "main.55ed9f6d.js.map": "/portfolio/static/js/main.55ed9f6d.js.map"
   },
   "entrypoints": [
     "static/css/main.65a94564.css",
-    "static/js/main.6b218dda.js"
+    "static/js/main.55ed9f6d.js"
   ]
 }
