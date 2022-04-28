@@ -11,30 +11,32 @@ import {
   Routes,
   NavLink,
 } from "react-router-dom";
-//import ScrollToTop from "./ScrollToTop";
+import ScrollToTop from "./ScrollToTop";
 import "./css/Navigation.scss";
 
 class AppRouter extends Component {
   render() {
     return (
       <Router>
-        <div className="page-wrapper">
-          <nav class="navigation col-2">
-            <NavLink to="/">Home</NavLink>
-            <NavLink to="/about">About</NavLink>
-            <NavLink to="/design">Design</NavLink>
-            <NavLink to="/illustration">Illustration</NavLink>
-          </nav>
-          <Routes>
-            <Route exact path="/" element={<Home />} />
-            <Route exact path="/portfolio" element={<Home />} />
-            <Route exact path="/about" element={<About />} />
-            <Route exact path="/design/" element={<Design />} />
-            <Route exact path="/illustration/" element={<Illustration />} />
-            <Route path="*" element={<DoesNotExist />} />
-            <Route path="/project/:id" element={<ProjectContainer />} />
-          </Routes>
-        </div>
+        <ScrollToTop>
+          <div className="page-wrapper">
+            <nav class="navigation col-2">
+              <NavLink to="/">Home</NavLink>
+              <NavLink to="/about">About</NavLink>
+              <NavLink to="/design">Design</NavLink>
+              <NavLink to="/illustration">Illustration</NavLink>
+            </nav>
+            <Routes>
+              <Route exact path="/" element={<Home />} />
+              <Route exact path="/portfolio" element={<Home />} />
+              <Route exact path="/about" element={<About />} />
+              <Route exact path="/design/" element={<Design />} />
+              <Route exact path="/illustration/" element={<Illustration />} />
+              <Route path="*" element={<DoesNotExist />} />
+              <Route path="/project/:id" element={<ProjectContainer />} />
+            </Routes>
+          </div>
+        </ScrollToTop>
       </Router>
     );
   }

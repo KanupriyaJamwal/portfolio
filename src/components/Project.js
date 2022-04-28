@@ -91,7 +91,8 @@ class Project extends Component {
           </h2>
         </header>
         <p>{this.props.body}</p>
-        <section className="col-8 nested offset-neg-1 next-shelf">
+
+        {/* <section className="col-8 nested offset-neg-1 next-shelf">
           <li className="project col-4 nested prev-project">
             <a className="shelf-project-link" href={this.props.prev_link}>
               <div className="col-1">
@@ -112,7 +113,7 @@ class Project extends Component {
               </div>
             </a>
           </li>
-        </section>
+        </section> */}
       </div>
     );
   }
