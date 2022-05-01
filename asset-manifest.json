@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4a660053.css",
-    "main.js": "/portfolio/static/js/main.a6fc98fd.js",
+    "main.js": "/portfolio/static/js/main.837d4d24.js",
     "static/media/aubrey-with-a-headband.jpg": "/portfolio/static/media/aubrey-with-a-headband.4c8200fcd48dbc98199e.jpg",
     "static/media/cleopatrons.jpg": "/portfolio/static/media/cleopatrons.a32a8ccf2ab00f059e07.jpg",
     "static/media/cleopatra-bartender-sketch.jpg": "/portfolio/static/media/cleopatra-bartender-sketch.c68b36ed7b5379177e97.jpg",
     "static/media/Rip-Off_Bar_Inside.webp": "/portfolio/static/media/Rip-Off_Bar_Inside.12de0916efc5e38f09f8.webp",
     "static/media/hci17.jpg": "/portfolio/static/media/hci17.6abe86a909d8132c1515.jpg",
     "static/media/hci3.jpg": "/portfolio/static/media/hci3.c439f3c59a87e83502df.jpg",
-    "static/media/KanupriyaJamwalCV2022.pdf": "/portfolio/static/media/KanupriyaJamwalCV2022.48ffd8b259869a22ef4c.pdf",
+    "static/media/KanupriyaJamwalCV2022.pdf": "/portfolio/static/media/KanupriyaJamwalCV2022.ef1462639d764626d9b3.pdf",
     "static/media/hci18.jpg": "/portfolio/static/media/hci18.d4739705d1c96b757365.jpg",
     "static/media/hci16.jpg": "/portfolio/static/media/hci16.0a730c837ffda5538f5e.jpg",
     "static/media/cleos-bar-draft-3-silver-draft.jpg": "/portfolio/static/media/cleos-bar-draft-3-silver-draft.4e3287f67844d8d83beb.jpg",
@@ -58,10 +58,10 @@
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
     "main.4a660053.css.map": "/portfolio/static/css/main.4a660053.css.map",
-    "main.a6fc98fd.js.map": "/portfolio/static/js/main.a6fc98fd.js.map"
+    "main.837d4d24.js.map": "/portfolio/static/js/main.837d4d24.js.map"
   },
   "entrypoints": [
     "static/css/main.4a660053.css",
-    "static/js/main.a6fc98fd.js"
+    "static/js/main.837d4d24.js"
   ]
 }
