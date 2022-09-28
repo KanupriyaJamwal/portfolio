@@ -1,5 +1,9 @@
 @import "../styles/_base";
 
+iframe {
+  @extend .project-image;
+}
+
 .project-header {
   width: 100%;
 }
@@ -183,7 +187,8 @@ ol.text-list {
     .next-shelf .shelf-project-link {
       align-items: flex-start;
       width: 50vw;
-      .col-1, .col-3 {
+      .col-1,
+      .col-3 {
         width: 50vw;
       }
       h2 {
@@ -228,7 +233,9 @@ ol.text-list {
     font-size: 17px;
   }
   ul.text-list {
-    li { font-size: 17px; }
+    li {
+      font-size: 17px;
+    }
     padding: 0 32px;
   }
 }

@@ -78,6 +78,26 @@ class Test extends Component {
                 </div>
               </Link>
             </li>
+
+            <li className="project col-8 nested">
+              <div className="project-number col-1">
+                <h3>04</h3>
+              </div>
+              <Link className="project-link fixed" to="/project/deuce">
+                <div className="col-3 project-thumb-fixed">
+                  <img
+                    className="project-thumb"
+                    alt="Wanna take a deuce?"
+                    src={require("./images/deuce-logo.jpg")}
+                  />
+                </div>
+                <div className="col-3 project-title">
+                  <h6 className="active">Design</h6>
+                  <h2>Deuce</h2>
+                  <p>A 2 Player Game</p>
+                </div>
+              </Link>
+            </li>
           </ul>
         </section>
       </div>

@@ -3,9 +3,12 @@ import "../css/Project.scss";
 import hired from "../images/hired_stamp.png";
 import atmforkids from "../images/banksy.jpg";
 import cleopatrons from "../images/cleopatrons.jpg";
+import deuce from "../images/deuce-logo.jpg";
+
 import Hired from "../projects/Hired";
 import ATMForKids from "../projects/ATMForKids";
 import Cleopatrons from "../projects/Cleopatrons";
+import Deuce from "../projects/Deuce";
 
 class ProjectContainer extends Component {
   _getProjectName = (project) => {
@@ -57,6 +60,20 @@ class ProjectContainer extends Component {
             prev_link="/project/atm_for_kids"
             next_title="Hired"
             next_link="/project/hired"
+          />
+        );
+        break;
+      case "/project/deuce":
+        project = (
+          <Project
+            title="Deuce"
+            header={deuce}
+            description="2 Player Game"
+            body={<Deuce />}
+            prev_title="Cleopatrons"
+            prev_link="/project/cleopatrons"
+            next_title="Banksy"
+            next_link="/project/atm_for_kids"
           />
         );
         break;
