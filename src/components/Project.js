@@ -4,11 +4,13 @@ import hired from "../images/hired_stamp.png";
 import atmforkids from "../images/banksy.jpg";
 import cleopatrons from "../images/cleopatrons.jpg";
 import deuce from "../images/deuce-logo.jpg";
+import grandmamas from "../images/grandmamas.jpg";
 
 import Hired from "../projects/Hired";
 import ATMForKids from "../projects/ATMForKids";
 import Cleopatrons from "../projects/Cleopatrons";
 import Deuce from "../projects/Deuce";
+import Grandmamas from "../projects/Grandmamas";
 
 class ProjectContainer extends Component {
   _getProjectName = (project) => {
@@ -70,6 +72,20 @@ class ProjectContainer extends Component {
             header={deuce}
             description="2 Player Game"
             body={<Deuce />}
+            prev_title="Cleopatrons"
+            prev_link="/project/cleopatrons"
+            next_title="Banksy"
+            next_link="/project/atm_for_kids"
+          />
+        );
+        break;
+      case "/project/grandmamas":
+        project = (
+          <Project
+            title="Grandmama's"
+            header={grandmamas}
+            description="A Menu Preview App"
+            body={<Grandmamas />}
             prev_title="Cleopatrons"
             prev_link="/project/cleopatrons"
             next_title="Banksy"

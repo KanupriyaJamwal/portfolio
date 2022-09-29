@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4a660053.css",
-    "main.js": "/portfolio/static/js/main.837d4d24.js",
+    "main.js": "/portfolio/static/js/main.99130f49.js",
     "static/media/aubrey-with-a-headband.jpg": "/portfolio/static/media/aubrey-with-a-headband.4c8200fcd48dbc98199e.jpg",
+    "static/media/prototype.gif": "/portfolio/static/media/prototype.45ae442c8b6110dd5c62.gif",
+    "static/media/affinity.jpg": "/portfolio/static/media/affinity.c47491ee0daa36f2075c.jpg",
     "static/media/cleopatrons.jpg": "/portfolio/static/media/cleopatrons.a32a8ccf2ab00f059e07.jpg",
     "static/media/cleopatra-bartender-sketch.jpg": "/portfolio/static/media/cleopatra-bartender-sketch.c68b36ed7b5379177e97.jpg",
     "static/media/Rip-Off_Bar_Inside.webp": "/portfolio/static/media/Rip-Off_Bar_Inside.12de0916efc5e38f09f8.webp",
@@ -20,6 +22,7 @@
     "static/media/hci2.jpg": "/portfolio/static/media/hci2.0896236def442e319c0b.jpg",
     "static/media/hci6.jpg": "/portfolio/static/media/hci6.19eca083256da4039f68.jpg",
     "static/media/kanupriya-portrait1.jpeg": "/portfolio/static/media/kanupriya-portrait1.aeaa7e8b3b07b9288c98.jpeg",
+    "static/media/grandmamas.jpg": "/portfolio/static/media/grandmamas.890831d748aca002c5a6.jpg",
     "static/media/hci13.jpg": "/portfolio/static/media/hci13.b27b0512f839a51c95c1.jpg",
     "static/media/hci20.jpg": "/portfolio/static/media/hci20.5b8e6b5558896415c307.jpg",
     "static/media/hci9.jpg": "/portfolio/static/media/hci9.3b4dd5985ce33eb54a91.jpg",
@@ -38,16 +41,21 @@
     "static/media/kanupriya-portrait.jpeg": "/portfolio/static/media/kanupriya-portrait.922c9b2d527c403724ec.jpeg",
     "static/media/candidate-home-ui.png": "/portfolio/static/media/candidate-home-ui.e64ae18713b886f0964d.png",
     "static/media/aubrey.webp": "/portfolio/static/media/aubrey.4f58b8d0b6425ade916f.webp",
+    "static/media/sandeep.jpg": "/portfolio/static/media/sandeep.1812ac691da1522293d2.jpg",
+    "static/media/aashni.jpg": "/portfolio/static/media/aashni.18da300bc9feb3217fdf.jpg",
     "static/media/recruiter-home-ui.png": "/portfolio/static/media/recruiter-home-ui.1fced1e2e04d7dc4221e.png",
     "static/media/impl2.png": "/portfolio/static/media/impl2.c20ff57a9415fa008bdc.png",
     "static/media/architecture.png": "/portfolio/static/media/architecture.05b7b9300fdf30a71984.png",
     "static/media/shakky.jpg": "/portfolio/static/media/shakky.afaa5217ec3396fdc7de.jpg",
     "static/media/banksy.jpg": "/portfolio/static/media/banksy.e151a43a87c1df00e1cd.jpg",
+    "static/media/mockups-1.JPG": "/portfolio/static/media/mockups-1.1eead259046dcca4e4f8.JPG",
     "static/media/illustration.jpg": "/portfolio/static/media/illustration.9b6cb933abc679e7fc9d.jpg",
     "static/media/hired_stamp.png": "/portfolio/static/media/hired_stamp.aaac6dc96d7a266d021e.png",
+    "static/media/mockups-2.JPG": "/portfolio/static/media/mockups-2.9cb6704dfb822a26d569.JPG",
     "static/media/signed-in-jobs-rc.png": "/portfolio/static/media/signed-in-jobs-rc.d546a844b7d3224032b3.png",
     "static/media/signed-in-jobs.png": "/portfolio/static/media/signed-in-jobs.9479de6f49c53b49167f.png",
     "static/media/seq-diag-cfr.png": "/portfolio/static/media/seq-diag-cfr.2644c44bdf37aab111d8.png",
+    "static/media/mockups-3.JPG": "/portfolio/static/media/mockups-3.592c96de6e9dc78b855b.JPG",
     "static/media/deuce-logo.jpg": "/portfolio/static/media/deuce-logo.94a5d07072a1d58d64dd.jpg",
     "static/media/cleo-and-tonys-bar.png": "/portfolio/static/media/cleo-and-tonys-bar.916b43d62eafc9b12458.png",
     "static/media/seq-diag-interaction-cfr.png": "/portfolio/static/media/seq-diag-interaction-cfr.95651c95e61ef646c821.png",
@@ -58,10 +66,10 @@
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
     "main.4a660053.css.map": "/portfolio/static/css/main.4a660053.css.map",
-    "main.837d4d24.js.map": "/portfolio/static/js/main.837d4d24.js.map"
+    "main.99130f49.js.map": "/portfolio/static/js/main.99130f49.js.map"
   },
   "entrypoints": [
     "static/css/main.4a660053.css",
-    "static/js/main.837d4d24.js"
+    "static/js/main.99130f49.js"
   ]
 }
