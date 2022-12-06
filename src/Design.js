@@ -21,6 +21,25 @@ class Design extends Component {
               <div className="project-number col-1">
                 <h3>01</h3>
               </div>
+              <Link className="project-link fixed" to="/project/hired">
+                <div className="col-3 project-thumb-fixed">
+                  <img
+                    className="project-thumb"
+                    alt="Stopping train crashes"
+                    src={require("./images/railsafe.jpg")}
+                  />
+                </div>
+                <div className="col-3 project-title">
+                  <h6 className="active">Design</h6>
+                  <h2>RailSafe</h2>
+                  <p>How can we prevent a train crash?</p>
+                </div>
+              </Link>
+            </li>
+            <li className="project col-8 nested">
+              <div className="project-number col-1">
+                <h3>02</h3>
+              </div>
               <Link className="project-link fixed" to="/project/deuce">
                 <div className="col-3 project-thumb-fixed">
                   <img
@@ -39,27 +58,30 @@ class Design extends Component {
 
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>02</h3>
+                <h3>03</h3>
               </div>
-              <Link className="project-link fixed" to="/project/hired">
+              <Link
+                className="project-link fixed"
+                to="/project/cage_the_elephant"
+              >
                 <div className="col-3 project-thumb-fixed">
                   <img
                     className="project-thumb"
-                    alt="Created a Job Recommendation System in college because we weren't getting any jobs"
-                    src={require("./images/hired_stamp.png")}
+                    alt="Band pic"
+                    src={require("./images/cagetheelephant.jpg")}
                   />
                 </div>
                 <div className="col-3 project-title">
                   <h6 className="active">Design</h6>
-                  <h2>Hired</h2>
-                  <p>How can we get hired easily?</p>
+                  <h2>Cage The Elephant</h2>
+                  <p>An Album Ordering and Listening flow</p>
                 </div>
               </Link>
             </li>
 
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>03</h3>
+                <h3>04</h3>
               </div>
               <Link className="project-link fixed" to="/project/atm_for_kids">
                 <div className="col-3 project-thumb-fixed">

@@ -5,12 +5,16 @@ import atmforkids from "../images/banksy.jpg";
 import cleopatrons from "../images/cleopatrons.jpg";
 import deuce from "../images/deuce-logo.jpg";
 import grandmamas from "../images/grandmamas.jpg";
+import cagetheelephant from "../images/cagetheelephant.jpg";
+import railsafe from "../images/railsafe.jpg";
 
 import Hired from "../projects/Hired";
 import ATMForKids from "../projects/ATMForKids";
 import Cleopatrons from "../projects/Cleopatrons";
 import Deuce from "../projects/Deuce";
 import Grandmamas from "../projects/Grandmamas";
+import CageTheElephant from "../projects/CageTheElephant";
+import RailSafe from "../projects/RailSafe";
 
 class ProjectContainer extends Component {
   _getProjectName = (project) => {
@@ -86,6 +90,34 @@ class ProjectContainer extends Component {
             header={grandmamas}
             description="A Menu Preview App"
             body={<Grandmamas />}
+            prev_title="Cleopatrons"
+            prev_link="/project/cleopatrons"
+            next_title="Banksy"
+            next_link="/project/atm_for_kids"
+          />
+        );
+        break;
+      case "/project/cage_the_elephant":
+        project = (
+          <Project
+            title="Cage The Elephant"
+            header={cagetheelephant}
+            description="An Album Listening and Ordering Flow"
+            body={<CageTheElephant />}
+            prev_title="Cleopatrons"
+            prev_link="/project/cleopatrons"
+            next_title="Banksy"
+            next_link="/project/atm_for_kids"
+          />
+        );
+        break;
+      case "/project/railway":
+        project = (
+          <Project
+            title="RailSafe"
+            header={railsafe}
+            description="A Railway Monitoring and Derailment Prevention System"
+            body={<RailSafe />}
             prev_title="Cleopatrons"
             prev_link="/project/cleopatrons"
             next_title="Banksy"
