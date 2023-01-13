@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.682478e2.css",
-    "main.js": "/portfolio/static/js/main.a40c1f55.js",
+    "main.js": "/portfolio/static/js/main.f7518699.js",
     "static/media/ctg_site.gif": "/portfolio/static/media/ctg_site.e19ab584c4c775285b65.gif",
     "static/media/aubrey-with-a-headband.jpg": "/portfolio/static/media/aubrey-with-a-headband.4c8200fcd48dbc98199e.jpg",
     "static/media/prototype.gif": "/portfolio/static/media/prototype.45ae442c8b6110dd5c62.gif",
@@ -90,10 +90,10 @@
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
     "main.682478e2.css.map": "/portfolio/static/css/main.682478e2.css.map",
-    "main.a40c1f55.js.map": "/portfolio/static/js/main.a40c1f55.js.map"
+    "main.f7518699.js.map": "/portfolio/static/js/main.f7518699.js.map"
   },
   "entrypoints": [
     "static/css/main.682478e2.css",
-    "static/js/main.a40c1f55.js"
+    "static/js/main.f7518699.js"
   ]
 }
