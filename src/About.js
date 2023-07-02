@@ -51,6 +51,15 @@ class About extends Component {
                   </li>
                   <li>
                     <a
+                      href="https://www.behance.net/kanupriyajamwal"
+                      className="social-media-link"
+                      target="blank"
+                    >
+                      Behance
+                    </a>
+                  </li>
+                  <li>
+                    <a
                       href="https://github.com/KanupriyaJamwal"
                       className="social-media-link"
                       target="blank"
@@ -60,11 +69,11 @@ class About extends Component {
                   </li>
                   <li>
                     <a
-                      href="https://www.instagram.com/kanupriya_jamwal/"
+                      href="https://twitter.com/zoobydparampara"
                       className="social-media-link"
                       target="blank"
                     >
-                      Instagram
+                      Twitter
                     </a>
                   </li>
                 </ul>

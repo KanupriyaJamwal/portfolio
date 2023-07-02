@@ -1,5 +1,5 @@
 @import "_colors";
-@import url('https://fonts.googleapis.com/css?family=PT+Mono|PT+Sans:400,700');
+@import url("https://fonts.googleapis.com/css?family=PT+Mono|PT+Sans:400,700");
 
 h1,
 h1 a {
@@ -30,6 +30,13 @@ h2 {
   margin-bottom: 8px;
 }
 
+.header_inline_left {
+  float: left;
+}
+.header_inline_right {
+  float: right;
+}
+
 // For numbers only
 h3 {
   color: $pink;
@@ -43,7 +50,8 @@ h4 {
   font-size: 20px;
 }
 
-li, p {
+li,
+p {
   color: $off-black;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: 18px;
@@ -89,12 +97,14 @@ h6 {
   h1 strong,
   h1 a {
     font-size: 45px;
-    line-height: 1.0;
+    line-height: 1;
   }
 }
 
 @media screen and (max-width: 600px) {
-  h1, h1 a, h1 strong {
+  h1,
+  h1 a,
+  h1 strong {
     font-size: 42px;
     line-height: 1.05;
   }
@@ -109,7 +119,8 @@ h6 {
   h6 {
     font-size: 14px;
   }
-  li, p {
+  li,
+  p {
     font-size: 17px;
   }
 }
