@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.682478e2.css",
-    "main.js": "/portfolio/static/js/main.f7518699.js",
+    "main.css": "/portfolio/static/css/main.76885c97.css",
+    "main.js": "/portfolio/static/js/main.39a1c7b8.js",
     "static/media/ctg_site.gif": "/portfolio/static/media/ctg_site.e19ab584c4c775285b65.gif",
     "static/media/aubrey-with-a-headband.jpg": "/portfolio/static/media/aubrey-with-a-headband.4c8200fcd48dbc98199e.jpg",
     "static/media/prototype.gif": "/portfolio/static/media/prototype.45ae442c8b6110dd5c62.gif",
@@ -9,7 +9,16 @@
     "static/media/cleopatrons.jpg": "/portfolio/static/media/cleopatrons.a32a8ccf2ab00f059e07.jpg",
     "static/media/cart.gif": "/portfolio/static/media/cart.dc39f392a89a4e392056.gif",
     "static/media/crash.png": "/portfolio/static/media/crash.da6cef98356df4823054.png",
+    "static/media/mai6.png": "/portfolio/static/media/mai6.aac417b17b641f1079c5.png",
+    "static/media/mai9.png": "/portfolio/static/media/mai9.0808e1847f655b6a4ec7.png",
+    "static/media/mai1.png": "/portfolio/static/media/mai1.ec6a2fbbc4bad51f777b.png",
+    "static/media/mai7.png": "/portfolio/static/media/mai7.bab37fe0f75a2353e901.png",
+    "static/media/mai4.png": "/portfolio/static/media/mai4.b23632b84335cdab41ba.png",
+    "static/media/mai8.png": "/portfolio/static/media/mai8.bec7e4945afa187b39d2.png",
     "static/media/ui_issues.png": "/portfolio/static/media/ui_issues.a5b0dc8f46b8b1779ea3.png",
+    "static/media/mai3.png": "/portfolio/static/media/mai3.7d6a5420adaf196669ae.png",
+    "static/media/mai5.png": "/portfolio/static/media/mai5.28478bc3418cad5d9620.png",
+    "static/media/mai2.png": "/portfolio/static/media/mai2.aa62a12d1245b0116fa6.png",
     "static/media/home.gif": "/portfolio/static/media/home.3545c4c0fad13bf8e544.gif",
     "static/media/cleopatra-bartender-sketch.jpg": "/portfolio/static/media/cleopatra-bartender-sketch.c68b36ed7b5379177e97.jpg",
     "static/media/nav.gif": "/portfolio/static/media/nav.9db34a7387bdf1bcddba.gif",
@@ -24,6 +33,7 @@
     "static/media/hci18.jpg": "/portfolio/static/media/hci18.d4739705d1c96b757365.jpg",
     "static/media/hci16.jpg": "/portfolio/static/media/hci16.0a730c837ffda5538f5e.jpg",
     "static/media/cleos-bar-draft-3-silver-draft.jpg": "/portfolio/static/media/cleos-bar-draft-3-silver-draft.4e3287f67844d8d83beb.jpg",
+    "static/media/user_survey_3.png": "/portfolio/static/media/user_survey_3.5bb6c64acd5176bd12a0.png",
     "static/media/reflections.png": "/portfolio/static/media/reflections.795a3a487ba8fae3565a.png",
     "static/media/hci15.jpg": "/portfolio/static/media/hci15.ed83082aeb88a4738995.jpg",
     "static/media/approach_monitor.png": "/portfolio/static/media/approach_monitor.a880c9fde53c04a25eeb.png",
@@ -32,7 +42,9 @@
     "static/media/hci10.jpg": "/portfolio/static/media/hci10.167a5f9d454fe4ad5256.jpg",
     "static/media/hci12.jpg": "/portfolio/static/media/hci12.7ae4c02bb3edb64744b7.jpg",
     "static/media/hci2.jpg": "/portfolio/static/media/hci2.0896236def442e319c0b.jpg",
+    "static/media/user_survey_4.png": "/portfolio/static/media/user_survey_4.dae7f0071189a4ff717c.png",
     "static/media/hci6.jpg": "/portfolio/static/media/hci6.19eca083256da4039f68.jpg",
+    "static/media/user_survey_5.png": "/portfolio/static/media/user_survey_5.83cf4548000f7ac53e1b.png",
     "static/media/kanupriya-portrait1.jpeg": "/portfolio/static/media/kanupriya-portrait1.aeaa7e8b3b07b9288c98.jpeg",
     "static/media/grandmamas.jpg": "/portfolio/static/media/grandmamas.890831d748aca002c5a6.jpg",
     "static/media/hci13.jpg": "/portfolio/static/media/hci13.b27b0512f839a51c95c1.jpg",
@@ -43,11 +55,13 @@
     "static/media/hci8.jpg": "/portfolio/static/media/hci8.f9a94a659947167a07d1.jpg",
     "static/media/cleos-bar-draft-2.5-silver-draft.jpg": "/portfolio/static/media/cleos-bar-draft-2.5-silver-draft.e8ce776aa4abb45a503e.jpg",
     "static/media/hci4.jpg": "/portfolio/static/media/hci4.7c00193e41aa16810236.jpg",
+    "static/media/user_survey_1.png": "/portfolio/static/media/user_survey_1.83741a0dca68a5a0a6a3.png",
     "static/media/hci7.jpg": "/portfolio/static/media/hci7.e2afc2f39ef4f1ffb82e.jpg",
     "static/media/home_iters.png": "/portfolio/static/media/home_iters.2ce06927eadb67e6856c.png",
     "static/media/cleos-bar-draft-1.jpg": "/portfolio/static/media/cleos-bar-draft-1.8865056107da0c8e6525.jpg",
     "static/media/paper_home.png": "/portfolio/static/media/paper_home.99ba2e2422512af4593a.png",
     "static/media/cagetheelephant.jpg": "/portfolio/static/media/cagetheelephant.6d74b6a2180f8d9f31e8.jpg",
+    "static/media/user_survey_2.png": "/portfolio/static/media/user_survey_2.2c03a4c6d56994d3dcd2.png",
     "static/media/hybrid-system.png": "/portfolio/static/media/hybrid-system.8ee08acccf0cf6584e13.png",
     "static/media/hci5.jpg": "/portfolio/static/media/hci5.51b0a3a211445bb7a277.jpg",
     "static/media/hci14.jpg": "/portfolio/static/media/hci14.379c4ca335b25d4e6a91.jpg",
@@ -81,6 +95,7 @@
     "static/media/deuce-logo.jpg": "/portfolio/static/media/deuce-logo.94a5d07072a1d58d64dd.jpg",
     "static/media/cleo-and-tonys-bar.png": "/portfolio/static/media/cleo-and-tonys-bar.916b43d62eafc9b12458.png",
     "static/media/development.png": "/portfolio/static/media/development.e2a63e821e84e8b2952f.png",
+    "static/media/acedatingapp.png": "/portfolio/static/media/acedatingapp.b0d5d51da706c648a342.png",
     "static/media/seq-diag-interaction-cfr.png": "/portfolio/static/media/seq-diag-interaction-cfr.95651c95e61ef646c821.png",
     "static/media/research.jpg": "/portfolio/static/media/research.49d7dbc1d0e5d6969e38.jpg",
     "static/media/proactive.png": "/portfolio/static/media/proactive.65ff3c7cfeef9c2bc60c.png",
@@ -89,11 +104,11 @@
     "static/media/cleo-a2.png": "/portfolio/static/media/cleo-a2.0f4e65902d8141f289ca.png",
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
-    "main.682478e2.css.map": "/portfolio/static/css/main.682478e2.css.map",
-    "main.f7518699.js.map": "/portfolio/static/js/main.f7518699.js.map"
+    "main.76885c97.css.map": "/portfolio/static/css/main.76885c97.css.map",
+    "main.39a1c7b8.js.map": "/portfolio/static/js/main.39a1c7b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.682478e2.css",
-    "static/js/main.f7518699.js"
+    "static/css/main.76885c97.css",
+    "static/js/main.39a1c7b8.js"
   ]
 }
