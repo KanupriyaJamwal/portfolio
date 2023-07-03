@@ -32,9 +32,9 @@ class Test extends Component {
                   />
                 </div>
                 <div className="col-3 project-title">
-                  <h6 className="active">Design</h6>
+                  <h6 className="active">Research</h6>
                   <h2>Asexual Dating App</h2>
-                  <p>Prelminary Research For an Asexual Dating App</p>
+                  <p>Is there a need for an asexual dating app?</p>
                 </div>
               </Link>
             </li>
@@ -72,7 +72,7 @@ class Test extends Component {
                 <div className="col-3 project-title">
                   <h6 className="active">Design</h6>
                   <h2>Grandmamas</h2>
-                  <p>A Menu Preview App</p>
+                  <p>How to preview a menu remotely?</p>
                 </div>
               </Link>
             </li>
@@ -95,7 +95,7 @@ class Test extends Component {
                 <div className="col-3 project-title">
                   <h6 className="active">Design</h6>
                   <h2>Cage The Elephant</h2>
-                  <p>An Album Ordering and Listening flow</p>
+                  <p>How to get an album listening and ordering flow?</p>
                 </div>
               </Link>
             </li>
@@ -122,6 +122,25 @@ class Test extends Component {
               <div className="project-number col-1">
                 <h3>06</h3>
               </div>
+              <Link className="project-link fixed" to="/project/bawarchi">
+                <div className="col-3 project-thumb-fixed">
+                  <img
+                    className="project-thumb"
+                    alt="I just want pancakes"
+                    src={require("./images/bawarchi.jpg")}
+                  />
+                </div>
+                <div className="col-3 project-title">
+                  <h6 className="active">Design</h6>
+                  <h2>Bawarchi</h2>
+                  <p>How to cook?</p>
+                </div>
+              </Link>
+            </li>
+            <li className="project col-8 nested">
+              <div className="project-number col-1">
+                <h3>07</h3>
+              </div>
               <Link className="project-link fixed" to="/project/cleopatrons">
                 <div className="col-3 project-thumb-fixed">
                   <img
@@ -139,7 +158,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>07</h3>
+                <h3>08</h3>
               </div>
               <Link className="project-link fixed" to="/project/atm_for_kids">
                 <div className="col-3 project-thumb-fixed">

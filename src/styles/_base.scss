@@ -25,7 +25,7 @@ html {
 .navigation {
   display: flex;
   flex-direction: column;
-  height: 100%;
+  height: 80%;
   justify-content: center;
   position: fixed;
   text-align: right;
@@ -58,13 +58,15 @@ html {
       background: transparent; /* optional: just make scrollbar invisible */
     }
     a {
-      background: $pink;
-      color: $white;
+      background: $white;
+      color: $pink;
+
       margin-bottom: 0;
       padding: 16px 24px;
       &.active {
-        background: $white;
-        color: $pink;
+        background: $pink;
+        color: $white;
+        text-decoration: none;
       }
     }
   }

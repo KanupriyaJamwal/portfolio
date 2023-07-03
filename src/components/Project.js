@@ -8,6 +8,7 @@ import grandmamas from "../images/grandmamas.jpg";
 import cagetheelephant from "../images/cagetheelephant.jpg";
 import railsafe from "../images/railsafe.jpg";
 import acedatingapp from "../images/acedatingapp.png";
+import bawarchi from "../images/bawarchi.jpg";
 
 import Hired from "../projects/Hired";
 import ATMForKids from "../projects/ATMForKids";
@@ -17,6 +18,7 @@ import Grandmamas from "../projects/Grandmamas";
 import CageTheElephant from "../projects/CageTheElephant";
 import RailSafe from "../projects/RailSafe";
 import AceDatingApp from "../projects/AceDatingApp";
+import Bawarchi from "../projects/Bawarchi";
 
 class ProjectContainer extends Component {
   _getProjectName = (project) => {
@@ -134,6 +136,20 @@ class ProjectContainer extends Component {
             header={acedatingapp}
             description="Prelminary Research For an Asexual Dating App"
             body={<AceDatingApp />}
+            prev_title="Cleopatrons"
+            prev_link="/project/cleopatrons"
+            next_title="Banksy"
+            next_link="/project/atm_for_kids"
+          />
+        );
+        break;
+      case "/project/bawarchi":
+        project = (
+          <Project
+            title="Bawarchi"
+            header={bawarchi}
+            description="Visual design for a recipe app"
+            body={<Bawarchi />}
             prev_title="Cleopatrons"
             prev_link="/project/cleopatrons"
             next_title="Banksy"
