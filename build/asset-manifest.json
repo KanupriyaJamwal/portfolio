@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2dd2aaa7.css",
-    "main.js": "/portfolio/static/js/main.54f25411.js",
+    "main.js": "/portfolio/static/js/main.ef5ced19.js",
     "static/media/prototype.gif": "/portfolio/static/media/prototype.45ae442c8b6110dd5c62.gif",
     "static/media/ctg_site.gif": "/portfolio/static/media/ctg_site.e19ab584c4c775285b65.gif",
     "static/media/aubrey-with-a-headband.jpg": "/portfolio/static/media/aubrey-with-a-headband.4c8200fcd48dbc98199e.jpg",
@@ -77,6 +77,7 @@
     "static/media/hci21.jpg": "/portfolio/static/media/hci21.b6fcfcf6913c80a12e87.jpg",
     "static/media/kanupriya-portrait.jpeg": "/portfolio/static/media/kanupriya-portrait.922c9b2d527c403724ec.jpeg",
     "static/media/candidate-home-ui.png": "/portfolio/static/media/candidate-home-ui.e64ae18713b886f0964d.png",
+    "static/media/gorillaz.jpeg": "/portfolio/static/media/gorillaz.f86c42f70931247cbd65.jpeg",
     "static/media/aubrey.webp": "/portfolio/static/media/aubrey.4f58b8d0b6425ade916f.webp",
     "static/media/lofi_prototype.png": "/portfolio/static/media/lofi_prototype.d95339a1da105aa78c38.png",
     "static/media/sandeep.jpg": "/portfolio/static/media/sandeep.1812ac691da1522293d2.jpg",
@@ -115,10 +116,10 @@
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
     "main.2dd2aaa7.css.map": "/portfolio/static/css/main.2dd2aaa7.css.map",
-    "main.54f25411.js.map": "/portfolio/static/js/main.54f25411.js.map"
+    "main.ef5ced19.js.map": "/portfolio/static/js/main.ef5ced19.js.map"
   },
   "entrypoints": [
     "static/css/main.2dd2aaa7.css",
-    "static/js/main.54f25411.js"
+    "static/js/main.ef5ced19.js"
   ]
 }

@@ -23,24 +23,43 @@ class Test extends Component {
               <div className="project-number col-1">
                 <h3>01</h3>
               </div>
-              <Link className="project-link fixed" to="/project/ace_dating_app">
+              <Link className="project-link fixed" to="/project/grandmamas">
                 <div className="col-3 project-thumb-fixed">
                   <img
                     className="project-thumb"
-                    alt="ACE Dating App"
-                    src={require("./images/acedatingapp.png")}
+                    alt="Grandma"
+                    src={require("./images/grandmamas.jpg")}
                   />
                 </div>
                 <div className="col-3 project-title">
-                  <h6 className="active">Research</h6>
-                  <h2>Asexual Dating App</h2>
-                  <p>Is there a need for an asexual dating app?</p>
+                  <h6 className="active">Design</h6>
+                  <h2>Grandmamas</h2>
+                  <p>How to preview a menu remotely?</p>
                 </div>
               </Link>
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
                 <h3>02</h3>
+              </div>
+              <Link className="project-link fixed" to="/project/pegasus">
+                <div className="col-3 project-thumb-fixed">
+                  <img
+                    className="project-thumb"
+                    alt="Pegasus"
+                    src={require("./images/pegasus.jpg")}
+                  />
+                </div>
+                <div className="col-3 project-title">
+                  <h6 className="active">Essay</h6>
+                  <h2>Pegasus</h2>
+                  <p>The state of surveillance</p>
+                </div>
+              </Link>
+            </li>
+            <li className="project col-8 nested">
+              <div className="project-number col-1">
+                <h3>03</h3>
               </div>
               <Link className="project-link fixed" to="/project/railway">
                 <div className="col-3 project-thumb-fixed">
@@ -59,27 +78,46 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>03</h3>
+                <h3>04</h3>
               </div>
-              <Link className="project-link fixed" to="/project/grandmamas">
+              <Link className="project-link fixed" to="/project/gorillaz">
                 <div className="col-3 project-thumb-fixed">
                   <img
                     className="project-thumb"
-                    alt="Grandma"
-                    src={require("./images/grandmamas.jpg")}
+                    alt="Gorillaz"
+                    src={require("./images/gorillaz.jpeg")}
                   />
                 </div>
                 <div className="col-3 project-title">
-                  <h6 className="active">Design</h6>
-                  <h2>Grandmamas</h2>
-                  <p>How to preview a menu remotely?</p>
+                  <h6 className="active">Essay</h6>
+                  <h2>Gorillaz</h2>
+                  <p>It's lore on lore on lore</p>
+                </div>
+              </Link>
+            </li>
+            <li className="project col-8 nested">
+              <div className="project-number col-1">
+                <h3>05</h3>
+              </div>
+              <Link className="project-link fixed" to="/project/ace_dating_app">
+                <div className="col-3 project-thumb-fixed">
+                  <img
+                    className="project-thumb"
+                    alt="ACE Dating App"
+                    src={require("./images/acedatingapp.png")}
+                  />
+                </div>
+                <div className="col-3 project-title">
+                  <h6 className="active">Research</h6>
+                  <h2>Asexual Dating App</h2>
+                  <p>Is there a need for an asexual dating app?</p>
                 </div>
               </Link>
             </li>
 
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>04</h3>
+                <h3>06</h3>
               </div>
               <Link
                 className="project-link fixed"
@@ -101,7 +139,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>05</h3>
+                <h3>07</h3>
               </div>
               <Link className="project-link fixed" to="/project/hired">
                 <div className="col-3 project-thumb-fixed">
@@ -120,7 +158,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>06</h3>
+                <h3>08</h3>
               </div>
               <Link className="project-link fixed" to="/project/bawarchi">
                 <div className="col-3 project-thumb-fixed">
@@ -139,7 +177,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>07</h3>
+                <h3>09</h3>
               </div>
               <Link className="project-link fixed" to="/project/cleopatrons">
                 <div className="col-3 project-thumb-fixed">
@@ -158,7 +196,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>08</h3>
+                <h3>10</h3>
               </div>
               <Link className="project-link fixed" to="/project/atm_for_kids">
                 <div className="col-3 project-thumb-fixed">
