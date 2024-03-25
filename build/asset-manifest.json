@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2dd2aaa7.css",
-    "main.js": "/portfolio/static/js/main.ef5ced19.js",
+    "main.js": "/portfolio/static/js/main.4c720d84.js",
     "static/media/prototype.gif": "/portfolio/static/media/prototype.45ae442c8b6110dd5c62.gif",
     "static/media/ctg_site.gif": "/portfolio/static/media/ctg_site.e19ab584c4c775285b65.gif",
     "static/media/aubrey-with-a-headband.jpg": "/portfolio/static/media/aubrey-with-a-headband.4c8200fcd48dbc98199e.jpg",
@@ -55,6 +55,7 @@
     "static/media/hci6.jpg": "/portfolio/static/media/hci6.19eca083256da4039f68.jpg",
     "static/media/user_survey_5.png": "/portfolio/static/media/user_survey_5.83cf4548000f7ac53e1b.png",
     "static/media/kanupriya-portrait1.jpeg": "/portfolio/static/media/kanupriya-portrait1.aeaa7e8b3b07b9288c98.jpeg",
+    "static/media/pegasus.jpg": "/portfolio/static/media/pegasus.69d1c16a92e77ce7c7c1.jpg",
     "static/media/grandmamas.jpg": "/portfolio/static/media/grandmamas.890831d748aca002c5a6.jpg",
     "static/media/hci13.jpg": "/portfolio/static/media/hci13.b27b0512f839a51c95c1.jpg",
     "static/media/hci20.jpg": "/portfolio/static/media/hci20.5b8e6b5558896415c307.jpg",
@@ -116,10 +117,10 @@
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
     "main.2dd2aaa7.css.map": "/portfolio/static/css/main.2dd2aaa7.css.map",
-    "main.ef5ced19.js.map": "/portfolio/static/js/main.ef5ced19.js.map"
+    "main.4c720d84.js.map": "/portfolio/static/js/main.4c720d84.js.map"
   },
   "entrypoints": [
     "static/css/main.2dd2aaa7.css",
-    "static/js/main.ef5ced19.js"
+    "static/js/main.4c720d84.js"
   ]
 }
