@@ -174,6 +174,7 @@ class ProjectContainer extends Component {
             next_link="/project/atm_for_kids"
           />
         );
+        break;
       case "/project/pegasus":
         project = (
           <Project
