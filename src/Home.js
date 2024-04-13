@@ -10,7 +10,7 @@ class Test extends Component {
           <div className="header-text-wrapper nested">
             <h1 className="header-text col-4">
               <strong>Kanupriya Jamwal</strong> is a designer, developer &amp;
-              an all around nice person.
+              an all around nice person
             </h1>
           </div>
           <div className="header-image-wrapper">
