@@ -53,7 +53,7 @@ class Test extends Component {
                 <div className="col-3 project-title">
                   <h6 className="active">Essay</h6>
                   <h2>Pegasus</h2>
-                  <p>The state of surveillance</p>
+                  <p>AI & Ethics: The state of surveillance</p>
                 </div>
               </Link>
             </li>
@@ -91,7 +91,7 @@ class Test extends Component {
                 <div className="col-3 project-title">
                   <h6 className="active">Essay</h6>
                   <h2>Gorillaz</h2>
-                  <p>It's lore on lore on lore</p>
+                  <p>Creative & Interactive Media: It's lore on lore on lore</p>
                 </div>
               </Link>
             </li>
