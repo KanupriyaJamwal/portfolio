@@ -11,8 +11,8 @@ class Test extends Component {
             <h1 className="header-text col-4">
               <strong>Kanupriya Jamwal</strong> is a UX Designer
             </h1>
-            <h3 className="active col-4">
-              Research, Product , Visual Design, AI , Strategy, Data Analysis.
+            <h3 className="active col-3">
+              Research. Product. Strategy. Visual. AI. Data.
             </h3>
           </div>
           <div className="header-image-wrapper">
