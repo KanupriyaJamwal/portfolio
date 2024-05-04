@@ -9,12 +9,10 @@ class Test extends Component {
         <header className="header" style={{ padding: "2vw 0" }}>
           <div className="header-text-wrapper nested">
             <h1 className="header-text col-4">
-              <strong>Kanupriya Jamwal</strong> is a UX Designer &amp;
+              <strong>Kanupriya Jamwal</strong> is a UX Designer
             </h1>
             <h3 className="active col-4">
-              UX Researcher, Product Designer, UI Designer, Interaction
-              Designer, Visual Designer, Web Designer, UX Writer, Illustrator,
-              AI Enthusiast, Strategist, Data Analyst.
+              Research, Product , Visual Design, AI , Strategy, Data Analysis.
             </h3>
           </div>
           <div className="header-image-wrapper">
