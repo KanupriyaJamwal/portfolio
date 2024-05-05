@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2dd2aaa7.css",
-    "main.js": "/portfolio/static/js/main.0f34dab2.js",
+    "main.js": "/portfolio/static/js/main.d4ae27c2.js",
     "static/media/prototype.gif": "/portfolio/static/media/prototype.45ae442c8b6110dd5c62.gif",
     "static/media/ctg_site.gif": "/portfolio/static/media/ctg_site.e19ab584c4c775285b65.gif",
     "static/media/aubrey-with-a-headband.jpg": "/portfolio/static/media/aubrey-with-a-headband.4c8200fcd48dbc98199e.jpg",
@@ -38,7 +38,6 @@
     "static/media/hci17.jpg": "/portfolio/static/media/hci17.6abe86a909d8132c1515.jpg",
     "static/media/hci3.jpg": "/portfolio/static/media/hci3.c439f3c59a87e83502df.jpg",
     "static/media/approach_dashboard.png": "/portfolio/static/media/approach_dashboard.a4fa00fa1b6799bd17f3.png",
-    "static/media/KanupriyaJamwalCV2022.pdf": "/portfolio/static/media/KanupriyaJamwalCV2022.7ff056c8c7a01154662d.pdf",
     "static/media/hci18.jpg": "/portfolio/static/media/hci18.d4739705d1c96b757365.jpg",
     "static/media/hci16.jpg": "/portfolio/static/media/hci16.0a730c837ffda5538f5e.jpg",
     "static/media/cleos-bar-draft-3-silver-draft.jpg": "/portfolio/static/media/cleos-bar-draft-3-silver-draft.4e3287f67844d8d83beb.jpg",
@@ -92,6 +91,7 @@
     "static/media/bawarchi.jpg": "/portfolio/static/media/bawarchi.154991c47dee88a10c62.jpg",
     "static/media/railsafe.jpg": "/portfolio/static/media/railsafe.5962249b55d4f4eedf59.jpg",
     "static/media/sitemap.png": "/portfolio/static/media/sitemap.e97ccfc166e14368ba3a.png",
+    "static/media/Kanupriya Jamwal UX Resume.pdf": "/portfolio/static/media/Kanupriya Jamwal UX Resume.87e8fe9e5edb30c4ae11.pdf",
     "static/media/album_buy.jpg": "/portfolio/static/media/album_buy.fa1d9ab9a7cb52650030.jpg",
     "static/media/album_listen.jpg": "/portfolio/static/media/album_listen.ceda019575cdf335163b.jpg",
     "static/media/mockups-1.JPG": "/portfolio/static/media/mockups-1.1eead259046dcca4e4f8.JPG",
@@ -117,10 +117,10 @@
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
     "main.2dd2aaa7.css.map": "/portfolio/static/css/main.2dd2aaa7.css.map",
-    "main.0f34dab2.js.map": "/portfolio/static/js/main.0f34dab2.js.map"
+    "main.d4ae27c2.js.map": "/portfolio/static/js/main.d4ae27c2.js.map"
   },
   "entrypoints": [
     "static/css/main.2dd2aaa7.css",
-    "static/js/main.0f34dab2.js"
+    "static/js/main.d4ae27c2.js"
   ]
 }
