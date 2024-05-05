@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./css/About.scss";
-import CV from "./projects/KanupriyaJamwalCV2022.pdf";
+import CV from "./projects/Kanupriya Jamwal UX Resume.pdf";
 
 class About extends Component {
   render() {
@@ -42,7 +42,7 @@ class About extends Component {
                   </li>
                   <li>
                     <a
-                      href="https://www.linkedin.com/in/kanupriya_jamwal/"
+                      href="https://www.linkedin.com/in/kanupriya-jamwal/"
                       className="social-media-link"
                       target="blank"
                     >
