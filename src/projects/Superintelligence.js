@@ -4,19 +4,27 @@ class Superintelligence extends Component {
     return (
       <section className="col-7 nested">
         <div className="text-group">
-          <p className="large-paragraph medium-spacer-bottom small-spacer-top">
+          <p className="large-paragraph medium-spacer-bottom col-5">
             Philosopher Bostrom (2014) defines superintelligence as an entity
             possessing intellectual capacities surpassing those of the most
-            brilliant human minds across all domains. This essay posits that a
-            positive manifestation of artificial superintelligence aligns with
-            the paradigm of distributed superintelligence. Moreover, it delves
-            into the fascinating interplay between collaborative artificial
-            intelligence and intelligence augmentation, highlighting their
-            potential roles in advancing the ideals of transhumanism. The
-            exposition unfolds by presenting existing perspectives on these
-            subjects. To provide a balanced narrative, the essay concludes with
-            a discerning counterargument addressing apprehensions associated
-            with alarmist perspectives on superintelligence.
+            brilliant human minds across all domains.
+          </p>
+          <p className="reflections col-2">
+            I may have asked ChatGPT to make this one 'more academic'.
+          </p>
+        </div>
+        <div className="text-group">
+          <p className="large-paragraph medium-spacer-bottom small-spacer-top">
+            This essay posits that a positive manifestation of artificial
+            superintelligence aligns with the paradigm of distributed
+            superintelligence. Moreover, it delves into the fascinating
+            interplay between collaborative artificial intelligence and
+            intelligence augmentation, highlighting their potential roles in
+            advancing the ideals of transhumanism. The exposition unfolds by
+            presenting existing perspectives on these subjects. To provide a
+            balanced narrative, the essay concludes with a discerning
+            counterargument addressing apprehensions associated with alarmist
+            perspectives on superintelligence.
             <br></br>
             <br></br>
             Distributed superintelligence, a tenet in artificial intelligence
@@ -135,8 +143,6 @@ class Superintelligence extends Component {
             mere self-actualisation, such foresighted design could propel
             humanity toward unparalleled advancements that would otherwise
             demand an exorbitant amount of time.
-            <br></br>
-            <br></br>
           </p>
         </div>
 

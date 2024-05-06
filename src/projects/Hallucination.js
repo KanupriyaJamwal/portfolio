@@ -3,9 +3,6 @@ class Hallucination extends Component {
   render() {
     return (
       <section className="col-7 nested">
-        <h2 className="large-spacer-top col-5">Introduction</h2>
-        <br></br>
-        <br></br>
         <div className="text-group">
           <p className="large-paragraph medium-spacer-bottom small-spacer-top">
             Significant advancements in large language models (LLMs) have
