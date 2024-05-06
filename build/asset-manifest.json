@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2dd2aaa7.css",
-    "main.js": "/portfolio/static/js/main.d4ae27c2.js",
+    "main.js": "/portfolio/static/js/main.806cafc6.js",
     "static/media/prototype.gif": "/portfolio/static/media/prototype.45ae442c8b6110dd5c62.gif",
     "static/media/ctg_site.gif": "/portfolio/static/media/ctg_site.e19ab584c4c775285b65.gif",
     "static/media/aubrey-with-a-headband.jpg": "/portfolio/static/media/aubrey-with-a-headband.4c8200fcd48dbc98199e.jpg",
@@ -25,6 +25,7 @@
     "static/media/page2.jpg": "/portfolio/static/media/page2.ea728ceac3678e1d935f.jpg",
     "static/media/cleopatra-bartender-sketch.jpg": "/portfolio/static/media/cleopatra-bartender-sketch.c68b36ed7b5379177e97.jpg",
     "static/media/nav.gif": "/portfolio/static/media/nav.9db34a7387bdf1bcddba.gif",
+    "static/media/hallucination.jpg": "/portfolio/static/media/hallucination.c645ea858b29536b6da5.jpg",
     "static/media/desktop.png": "/portfolio/static/media/desktop.f2d8f896666b520a44d7.png",
     "static/media/design_process.png": "/portfolio/static/media/design_process.89343a944df7d58bed18.png",
     "static/media/mockup_6.png": "/portfolio/static/media/mockup_6.0f9482f410f6f6db591a.png",
@@ -84,6 +85,7 @@
     "static/media/aashni.jpg": "/portfolio/static/media/aashni.18da300bc9feb3217fdf.jpg",
     "static/media/recruiter-home-ui.png": "/portfolio/static/media/recruiter-home-ui.1fced1e2e04d7dc4221e.png",
     "static/media/impl2.png": "/portfolio/static/media/impl2.c20ff57a9415fa008bdc.png",
+    "static/media/superintelligence.jpg": "/portfolio/static/media/superintelligence.dcbff89fd126793baa06.jpg",
     "static/media/listen.jpg": "/portfolio/static/media/listen.60be7e4eb3eb34769e11.jpg",
     "static/media/architecture.png": "/portfolio/static/media/architecture.05b7b9300fdf30a71984.png",
     "static/media/shakky.jpg": "/portfolio/static/media/shakky.afaa5217ec3396fdc7de.jpg",
@@ -117,10 +119,10 @@
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
     "main.2dd2aaa7.css.map": "/portfolio/static/css/main.2dd2aaa7.css.map",
-    "main.d4ae27c2.js.map": "/portfolio/static/js/main.d4ae27c2.js.map"
+    "main.806cafc6.js.map": "/portfolio/static/js/main.806cafc6.js.map"
   },
   "entrypoints": [
     "static/css/main.2dd2aaa7.css",
-    "static/js/main.d4ae27c2.js"
+    "static/js/main.806cafc6.js"
   ]
 }

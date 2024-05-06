@@ -55,7 +55,7 @@ class Test extends Component {
                 <div className="col-3 project-title">
                   <h6 className="active">Essay</h6>
                   <h2>Pegasus</h2>
-                  <p>AI & Ethics: The state of surveillance</p>
+                  <p>Data & Society: The state of surveillance</p>
                 </div>
               </Link>
             </li>
@@ -143,6 +143,47 @@ class Test extends Component {
               <div className="project-number col-1">
                 <h3>07</h3>
               </div>
+              <Link className="project-link fixed" to="/project/hallucination">
+                <div className="col-3 project-thumb-fixed">
+                  <img
+                    className="project-thumb"
+                    alt="hallucination"
+                    src={require("./images/hallucination.jpg")}
+                  />
+                </div>
+                <div className="col-3 project-title">
+                  <h6 className="active">Essay</h6>
+                  <h2>AI Hallucination</h2>
+                  <p>AI & Ethics - An ML Case Study</p>
+                </div>
+              </Link>
+            </li>
+            <li className="project col-8 nested">
+              <div className="project-number col-1">
+                <h3>08</h3>
+              </div>
+              <Link
+                className="project-link fixed"
+                to="/project/superintelligence"
+              >
+                <div className="col-3 project-thumb-fixed">
+                  <img
+                    className="project-thumb"
+                    alt="is ai good or bad tho"
+                    src={require("./images/superintelligence.jpg")}
+                  />
+                </div>
+                <div className="col-3 project-title">
+                  <h6 className="active">Essay</h6>
+                  <h2>AI Superintelligence</h2>
+                  <p>AI & Ethics - Can AI be good?</p>
+                </div>
+              </Link>
+            </li>
+            <li className="project col-8 nested">
+              <div className="project-number col-1">
+                <h3>09</h3>
+              </div>
               <Link className="project-link fixed" to="/project/hired">
                 <div className="col-3 project-thumb-fixed">
                   <img
@@ -160,7 +201,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>08</h3>
+                <h3>10</h3>
               </div>
               <Link className="project-link fixed" to="/project/bawarchi">
                 <div className="col-3 project-thumb-fixed">
@@ -179,7 +220,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>09</h3>
+                <h3>11</h3>
               </div>
               <Link className="project-link fixed" to="/project/cleopatrons">
                 <div className="col-3 project-thumb-fixed">
@@ -198,7 +239,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>10</h3>
+                <h3>12</h3>
               </div>
               <Link className="project-link fixed" to="/project/atm_for_kids">
                 <div className="col-3 project-thumb-fixed">

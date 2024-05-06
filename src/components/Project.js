@@ -11,6 +11,8 @@ import acedatingapp from "../images/acedatingapp.png";
 import bawarchi from "../images/bawarchi.jpg";
 import gorillaz from "../images/gorillaz.jpeg";
 import pegasus from "../images/pegasus.jpg";
+import superintelligence from "../images/superintelligence.jpg";
+import hallucination from "../images/hallucination.jpg";
 
 import Hired from "../projects/Hired";
 import ATMForKids from "../projects/ATMForKids";
@@ -23,6 +25,8 @@ import AceDatingApp from "../projects/AceDatingApp";
 import Bawarchi from "../projects/Bawarchi";
 import Gorillaz from "../projects/Gorillaz";
 import Pegasus from "../projects/Pegasus";
+import Superintelligence from "../projects/Superintelligence";
+import Hallucination from "../projects/Hallucination";
 
 class ProjectContainer extends Component {
   _getProjectName = (project) => {
@@ -183,6 +187,34 @@ class ProjectContainer extends Component {
             description="Exploring the Intersection of Pegasus Spyware, Surveillance Realism, and
 Human Rights Implications in the Digital Era"
             body={<Pegasus />}
+            prev_title="Cleopatrons"
+            prev_link="/project/cleopatrons"
+            next_title="Banksy"
+            next_link="/project/atm_for_kids"
+          />
+        );
+        break;
+      case "/project/superintelligence":
+        project = (
+          <Project
+            title="AI Superintelligence"
+            header={superintelligence}
+            description="Envisioning AI Superintelligence Through a Transhumanist Lens"
+            body={<Superintelligence />}
+            prev_title="Cleopatrons"
+            prev_link="/project/cleopatrons"
+            next_title="Banksy"
+            next_link="/project/atm_for_kids"
+          />
+        );
+        break;
+      case "/project/hallucination":
+        project = (
+          <Project
+            title="AI Hallucination"
+            header={hallucination}
+            description="Hallucinations in LLMs. What? How? Why?"
+            body={<Hallucination />}
             prev_title="Cleopatrons"
             prev_link="/project/cleopatrons"
             next_title="Banksy"
