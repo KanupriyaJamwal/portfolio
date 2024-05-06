@@ -235,9 +235,11 @@ class Hallucination extends Component {
             on the domain, tasks may require LLMs to hallucinate. Writing a poem
             is different than writing a research paper.
             <br></br>
+            <br></br>
             Temperature is a parameter that influences the randomness and
             creativity of the generated text, giving users control over the
             diversity of the output.
+            <br></br>
             <br></br>
             Temperature choice varies by application and desired output. Lower
             temperatures suit precise tasks like question-answering, while
