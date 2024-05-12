@@ -1,9 +1,14 @@
 @import "../styles/_base";
 
 .projects-wrapper-about {
-  margin-top: 125px;
+  margin-top: 150px;
   align-items: center;
-  padding-right: 50px;
+  padding: 50px;
+  margin-left: 80px;
+}
+
+.left-margin-120 {
+  margin-left: 120px;
 }
 
 .header {
@@ -13,7 +18,7 @@
 .bio-text h1 {
   color: $off-black;
   padding: 16px;
-  text-align:center;
+  text-align: center;
 }
 
 .about-group {
@@ -40,8 +45,8 @@
   margin-top: large-spacer;
   h2 {
     span.about-module-text {
-       text-decoration: underline;
-       text-decoration-color: $pink;
+      text-decoration: underline;
+      text-decoration-color: $pink;
     }
   }
   p {
