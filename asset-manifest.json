@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.74930f6a.css",
+    "main.css": "/portfolio/static/css/main.8c27c463.css",
     "main.js": "/portfolio/static/js/main.6ba9fddf.js",
     "static/media/prototype.gif": "/portfolio/static/media/prototype.45ae442c8b6110dd5c62.gif",
     "static/media/ctg_site.gif": "/portfolio/static/media/ctg_site.e19ab584c4c775285b65.gif",
@@ -118,11 +118,11 @@
     "static/media/cleo-a2.png": "/portfolio/static/media/cleo-a2.0f4e65902d8141f289ca.png",
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
-    "main.74930f6a.css.map": "/portfolio/static/css/main.74930f6a.css.map",
+    "main.8c27c463.css.map": "/portfolio/static/css/main.8c27c463.css.map",
     "main.6ba9fddf.js.map": "/portfolio/static/js/main.6ba9fddf.js.map"
   },
   "entrypoints": [
-    "static/css/main.74930f6a.css",
+    "static/css/main.8c27c463.css",
     "static/js/main.6ba9fddf.js"
   ]
 }
