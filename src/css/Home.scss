@@ -65,7 +65,6 @@
   margin-top: -115px;
   margin-bottom: 90px;
   padding: 100px 0;
-  margin-left: 50px;
 }
 
 .projects {
@@ -259,6 +258,7 @@
 
   .projects-wrapper {
     margin-top: -130px;
+    margin-left: 50px;
   }
 }
 
@@ -275,6 +275,11 @@
 
   .projects-wrapper {
     margin-bottom: 0;
+    margin-left: 50px;
+  }
+
+  .navigation {
+    margin-top: -150px;
   }
 }
 
@@ -289,6 +294,7 @@
 
   .header-image-wrapper {
     width: 60vw;
+    margin-left: 30px;
   }
 
   .portrait {
@@ -314,6 +320,9 @@
 }
 
 @media screen and (max-width: 600px) {
+  .navigation {
+    margin-top: 0px;
+  }
   .header {
     flex-direction: column-reverse;
     margin-top: 0;
@@ -323,10 +332,11 @@
     background-image: url("/images/kanupriya-portrait1.jpeg");
     border-radius: 0;
     height: 450px;
-    margin-left: -16px;
+
     margin-top: 36px;
     margin-bottom: $medium-spacer;
     width: 100vw;
+    margin-left: -5px;
   }
 
   .header-image-wrapper {
@@ -335,6 +345,7 @@
 
   .header-text-wrapper {
     margin-bottom: $medium-spacer;
+    margin-left: 30px;
   }
 
   .header-text {
@@ -388,7 +399,8 @@
     border-radius: 0;
     margin-bottom: 0;
     margin-top: -400px;
-    padding: 350px 0 60px 0;
+    padding: 360px 0 60px 0;
+    margin-left: 10px;
   }
 }
 
