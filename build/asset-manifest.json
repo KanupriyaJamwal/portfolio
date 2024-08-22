@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8c27c463.css",
-    "main.js": "/portfolio/static/js/main.6ba9fddf.js",
+    "main.js": "/portfolio/static/js/main.2e709144.js",
+    "static/media/HCI DP 2024 - 2 page.pdf": "/portfolio/static/media/HCI DP 2024 - 2 page.2d4b7a296792a38b4ab0.pdf",
     "static/media/prototype.gif": "/portfolio/static/media/prototype.45ae442c8b6110dd5c62.gif",
     "static/media/ctg_site.gif": "/portfolio/static/media/ctg_site.e19ab584c4c775285b65.gif",
     "static/media/aubrey-with-a-headband.jpg": "/portfolio/static/media/aubrey-with-a-headband.4c8200fcd48dbc98199e.jpg",
@@ -31,6 +32,7 @@
     "static/media/mockup_6.png": "/portfolio/static/media/mockup_6.0f9482f410f6f6db591a.png",
     "static/media/train_dashboard.png": "/portfolio/static/media/train_dashboard.1ec7e61ea2204d3583bd.png",
     "static/media/Rip-Off_Bar_Inside.webp": "/portfolio/static/media/Rip-Off_Bar_Inside.12de0916efc5e38f09f8.webp",
+    "static/media/paceyourself.png": "/portfolio/static/media/paceyourself.4c39230000b05d0b8b61.png",
     "static/media/mockup_5.jpeg": "/portfolio/static/media/mockup_5.3bca74e6e1e8165f9ae7.jpeg",
     "static/media/mockup_4.jpeg": "/portfolio/static/media/mockup_4.c96d5dd2058dac754579.jpeg",
     "static/media/mockup_1.jpeg": "/portfolio/static/media/mockup_1.e58dfd37693edd7e6ddf.jpeg",
@@ -93,7 +95,7 @@
     "static/media/bawarchi.jpg": "/portfolio/static/media/bawarchi.154991c47dee88a10c62.jpg",
     "static/media/railsafe.jpg": "/portfolio/static/media/railsafe.5962249b55d4f4eedf59.jpg",
     "static/media/sitemap.png": "/portfolio/static/media/sitemap.e97ccfc166e14368ba3a.png",
-    "static/media/Kanupriya Jamwal UX Resume.pdf": "/portfolio/static/media/Kanupriya Jamwal UX Resume.87e8fe9e5edb30c4ae11.pdf",
+    "static/media/Kanupriya Jamwal Resume.pdf": "/portfolio/static/media/Kanupriya Jamwal Resume.29eb7ae0adb4c159d908.pdf",
     "static/media/album_buy.jpg": "/portfolio/static/media/album_buy.fa1d9ab9a7cb52650030.jpg",
     "static/media/album_listen.jpg": "/portfolio/static/media/album_listen.ceda019575cdf335163b.jpg",
     "static/media/mockups-1.JPG": "/portfolio/static/media/mockups-1.1eead259046dcca4e4f8.JPG",
@@ -119,10 +121,10 @@
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
     "main.8c27c463.css.map": "/portfolio/static/css/main.8c27c463.css.map",
-    "main.6ba9fddf.js.map": "/portfolio/static/js/main.6ba9fddf.js.map"
+    "main.2e709144.js.map": "/portfolio/static/js/main.2e709144.js.map"
   },
   "entrypoints": [
     "static/css/main.8c27c463.css",
-    "static/js/main.6ba9fddf.js"
+    "static/js/main.2e709144.js"
   ]
 }
