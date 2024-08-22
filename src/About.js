@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./css/About.scss";
-import CV from "./projects/Kanupriya Jamwal UX Resume.pdf";
+import CV from "./projects/Kanupriya Jamwal Resume.pdf";
 
 class About extends Component {
   render() {

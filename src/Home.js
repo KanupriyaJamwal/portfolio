@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "./css/Home.scss";
 import { Link } from "react-router-dom";
+import HCIDP2024 from "./projects/HCI DP 2024 - 2 page.pdf";
 
 class Test extends Component {
   render() {
@@ -19,6 +20,28 @@ class Test extends Component {
             <div className="header-image portrait"></div>
           </div>
         </header>
+
+        <section className="projects-wrapper" style={{ marginBottom: "0" }}>
+          <div className="projects project col-8 offset-3 nested">
+            <a className="project-link fixed" href={HCIDP2024} target="blank">
+              <div className="col-3 project-thumb-fixed">
+                <img
+                  className="project-thumb"
+                  alt="Grandma"
+                  src={require("./images/paceyourself.png")}
+                />
+              </div>
+              <div className="col-3 project-title">
+                <h6 className="active">Flagship Project</h6>
+                <h2>Pace Yourself</h2>
+                <p>
+                  Designing Pain Management for People experiencing Chronic Pain
+                </p>
+              </div>
+            </a>
+          </div>
+        </section>
+
         <section className="projects-wrapper">
           <ul className="projects col-10 offset-2 nested">
             <li className="project col-8 nested">
