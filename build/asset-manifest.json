@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8c27c463.css",
-    "main.js": "/portfolio/static/js/main.2e709144.js",
-    "static/media/HCI DP 2024 - 2 page.pdf": "/portfolio/static/media/HCI DP 2024 - 2 page.2d4b7a296792a38b4ab0.pdf",
+    "main.js": "/portfolio/static/js/main.a7a673d2.js",
+    "static/media/HCI DP 2024 - 2 page.pdf": "/portfolio/static/media/HCI DP 2024 - 2 page.c18cfa6549e73595f385.pdf",
     "static/media/prototype.gif": "/portfolio/static/media/prototype.45ae442c8b6110dd5c62.gif",
     "static/media/ctg_site.gif": "/portfolio/static/media/ctg_site.e19ab584c4c775285b65.gif",
     "static/media/aubrey-with-a-headband.jpg": "/portfolio/static/media/aubrey-with-a-headband.4c8200fcd48dbc98199e.jpg",
@@ -121,10 +121,10 @@
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
     "main.8c27c463.css.map": "/portfolio/static/css/main.8c27c463.css.map",
-    "main.2e709144.js.map": "/portfolio/static/js/main.2e709144.js.map"
+    "main.a7a673d2.js.map": "/portfolio/static/js/main.a7a673d2.js.map"
   },
   "entrypoints": [
     "static/css/main.8c27c463.css",
-    "static/js/main.2e709144.js"
+    "static/js/main.a7a673d2.js"
   ]
 }
