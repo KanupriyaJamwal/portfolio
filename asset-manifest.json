@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8c27c463.css",
-    "main.js": "/portfolio/static/js/main.a7a673d2.js",
+    "main.js": "/portfolio/static/js/main.44f555e2.js",
     "static/media/HCI DP 2024 - 2 page.pdf": "/portfolio/static/media/HCI DP 2024 - 2 page.c18cfa6549e73595f385.pdf",
     "static/media/prototype.gif": "/portfolio/static/media/prototype.45ae442c8b6110dd5c62.gif",
     "static/media/ctg_site.gif": "/portfolio/static/media/ctg_site.e19ab584c4c775285b65.gif",
@@ -95,7 +95,7 @@
     "static/media/bawarchi.jpg": "/portfolio/static/media/bawarchi.154991c47dee88a10c62.jpg",
     "static/media/railsafe.jpg": "/portfolio/static/media/railsafe.5962249b55d4f4eedf59.jpg",
     "static/media/sitemap.png": "/portfolio/static/media/sitemap.e97ccfc166e14368ba3a.png",
-    "static/media/Kanupriya Jamwal Resume.pdf": "/portfolio/static/media/Kanupriya Jamwal Resume.29eb7ae0adb4c159d908.pdf",
+    "static/media/Kanupriya Jamwal Resume.pdf": "/portfolio/static/media/Kanupriya Jamwal Resume.702701ecd585a0073957.pdf",
     "static/media/album_buy.jpg": "/portfolio/static/media/album_buy.fa1d9ab9a7cb52650030.jpg",
     "static/media/album_listen.jpg": "/portfolio/static/media/album_listen.ceda019575cdf335163b.jpg",
     "static/media/mockups-1.JPG": "/portfolio/static/media/mockups-1.1eead259046dcca4e4f8.JPG",
@@ -121,10 +121,10 @@
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
     "main.8c27c463.css.map": "/portfolio/static/css/main.8c27c463.css.map",
-    "main.a7a673d2.js.map": "/portfolio/static/js/main.a7a673d2.js.map"
+    "main.44f555e2.js.map": "/portfolio/static/js/main.44f555e2.js.map"
   },
   "entrypoints": [
     "static/css/main.8c27c463.css",
-    "static/js/main.a7a673d2.js"
+    "static/js/main.44f555e2.js"
   ]
 }
