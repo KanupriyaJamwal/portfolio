@@ -31,6 +31,13 @@ class Hallucination extends Component {
             >
               AI 2023
             </a>
+            <a
+              className="social-media-link"
+              target="blank"
+              href="https://youtu.be/WBniggluAe8?t=534"
+            >
+              more AI 2023
+            </a>
           </p>
         </div>
         <div className="text-group">
