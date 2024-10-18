@@ -7,20 +7,45 @@ class Hallucination extends Component {
           <p className="large-paragraph medium-spacer-bottom small-spacer-top">
             Significant advancements in large language models (LLMs) have
             unfolded over the past few years, showcasing exponential growth in
-            their capabilities (Naveed et. al., 2024). The swift pace of
-            innovation may have changed the way humans interact with computers,
-            but with rapid progress come inevitable challenges that must be
-            addressed. In this case study, LLMs are extensively explored,
-            emphasising their operational mechanisms and unintended
-            consequences. The study is focused on text-generation LLMs,
-            particularly ChatGPT. The primary aim is to investigate a notable
-            socio-technical ethical challenge termed 'AI hallucination,' which
-            involves AI generating highly realistic but superficial outputs
-            lacking genuine comprehension. The case study assesses the potential
-            ramifications of AI hallucinations within socio-technical contexts,
-            addressing ethical dilemmas. Additionally, the study discusses
-            strategies for mitigating the risks associated with AI
-            hallucinations in such systems.
+            their capabilities (Naveed et. al., 2024).
+          </p>
+        </div>
+        <div className="text-group">
+          <p className="large-paragraph medium-spacer-bottom col-5">
+            The swift pace of innovation may have changed the way humans
+            interact with computers, but with rapid progress come inevitable
+            challenges that must be addressed.
+          </p>
+          <p className="reflections col-2">
+            <a
+              className="social-media-link"
+              target="blank"
+              href="https://youtu.be/NQslXbsjVSM"
+            >
+              AI 2023
+            </a>
+
+            <a
+              className="social-media-link"
+              target="blank"
+              href="https://youtu.be/QL6SQEb48zY"
+            >
+              AI 2024
+            </a>
+          </p>
+        </div>
+        <div className="text-group">
+          <p className="large-paragraph medium-spacer-bottom small-spacer-top">
+            In this case study, LLMs are extensively explored, emphasising their
+            operational mechanisms and unintended consequences. The study is
+            focused on text-generation LLMs, particularly ChatGPT. The primary
+            aim is to investigate a notable socio-technical ethical challenge
+            termed 'AI hallucination,' which involves AI generating highly
+            realistic but superficial outputs lacking genuine comprehension. The
+            case study assesses the potential ramifications of AI hallucinations
+            within socio-technical contexts, addressing ethical dilemmas.
+            Additionally, the study discusses strategies for mitigating the
+            risks associated with AI hallucinations in such systems.
           </p>
         </div>
         <h2 className="large-spacer-top col-5">Overview of LLMs</h2>

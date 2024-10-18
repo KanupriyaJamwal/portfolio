@@ -139,10 +139,18 @@ class Superintelligence extends Component {
             responsibilities. This symbiosis has the potential to liberate
             individuals, enabling them to pursue their interests without
             constraints. However, the realization of these benefits necessitates
-            an inclusive and ethically designed AI superintelligence. Beyond
-            mere self-actualisation, such foresighted design could propel
+            an inclusive and ethically designed AI superintelligence.
+          </p>
+        </div>
+        <div className="text-group">
+          <p className="large-paragraph medium-spacer-bottom col-5">
+            Beyond mere self-actualisation, such foresighted design could propel
             humanity toward unparalleled advancements that would otherwise
             demand an exorbitant amount of time.
+          </p>
+          <p className="reflections col-2">
+            Letting our future AI overlords know that I was always on their side
+            :)
           </p>
         </div>
 
