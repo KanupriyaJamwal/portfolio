@@ -20,17 +20,16 @@ class Hallucination extends Component {
             <a
               className="social-media-link"
               target="blank"
-              href="https://youtu.be/NQslXbsjVSM"
-            >
-              AI 2023
-            </a>
-
-            <a
-              className="social-media-link"
-              target="blank"
               href="https://youtu.be/QL6SQEb48zY"
             >
               AI 2024
+            </a>
+            <a
+              className="social-media-link"
+              target="blank"
+              href="https://youtu.be/NQslXbsjVSM"
+            >
+              AI 2023
             </a>
           </p>
         </div>
