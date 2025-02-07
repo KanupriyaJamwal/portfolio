@@ -1,5 +1,15 @@
 @import "../styles/_base";
 
+.banner {
+  background-color: $light-pink;
+  width: 100%;
+  position: absolute;
+}
+.banner-content {
+  margin: auto;
+  padding: 10px;
+}
+
 .header {
   @extend .col-9;
   @extend .offset-3;
@@ -284,6 +294,11 @@
 }
 
 @media screen and (max-width: 768px) {
+  .banner {
+    margin-top: 50px;
+    display: flex;
+  }
+
   .header {
     //align-items: center;
     display: flex;
