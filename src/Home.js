@@ -7,6 +7,15 @@ class Test extends Component {
   render() {
     return (
       <div>
+        <div className="social-media col-3">
+          <a
+            href="http://users2.smartgb.com/g/g.php?a=s&i=g26-40097-68"
+            className="social-media-link"
+            target="blank"
+          >
+            Sign my guestbook!
+          </a>
+        </div>
         <header className="header" style={{ padding: "2vw 0" }}>
           <div className="header-text-wrapper nested">
             <h1 className="header-text col-4">
