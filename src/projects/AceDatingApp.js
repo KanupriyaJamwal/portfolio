@@ -320,7 +320,8 @@ class AceDatingApp extends Component {
             research questions were loosely inferred from user survey.
           </p>
           <p className="reflections col-2">
-            I need to hone my research skills further. 🧐
+            This was done before I went to UCD and realised how real research is
+            done 🧐
           </p>
         </div>
 

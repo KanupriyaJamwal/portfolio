@@ -6,12 +6,12 @@ class ATMForKids extends Component {
       <section className="col-7 nested">
         <div className="text-group">
           <p className="large-paragraph medium-spacer-bottom col-5">
-            In our 6th semester of college, we had 8 subjects and one of them
-            was an elective - Human Computer Interaction 😀
+            In our 6th semester of engineering (early 2019), we had 8 subjects
+            and one of them was an elective - Human Computer Interface 😀
             <br></br>
             This was my favourite subject and it later got me interested in UX
-            Design. For our HCI project, my friend Shreya and I designed the UI
-            for an ATM for kids.
+            Design. For our HCI project, my friend and I designed the UI for an
+            ATM for kids.
           </p>
           <p className="reflections col-2">
             The other elective was Operation Research.
@@ -26,7 +26,7 @@ class ATMForKids extends Component {
             <br></br>
             The core functionality of Banksy is to let children withdraw and
             parents deposit money. We have added more functionalities that we
-            believe would encourage kids to save money
+            believe would encourage kids to save money.
           </p>
           <p className="reflections col-2">
             Although, IDBI now offers 'POWERKIDZ' account for children.
@@ -37,16 +37,16 @@ class ATMForKids extends Component {
           <p className="large-paragraph medium-spacer-bottom col-5">
             Banksy has an interface which has customisable themes and caters to
             children’s love for cartoons. It gives limited options on-screen but
-            has all the functionalities that are necessary and a few extended
-            functionalities too.
+            has all the functionalities that are necessary, with a few extended
+            functionalities.
           </p>
         </div>
         <h2 className="large-spacer-top col-5">User Profiling</h2>
         <div className="text-group">
           <p className="large-paragraph medium-spacer-bottom col-5">
-            The target users are kids aged 10-15. Information was gathered by
+            The target users are kids aged 8-12. Information was gathered by
             conversing with kids of these ages at malls and other public places
-            (with the help of parents). This information includes colour scheme
+            (with consent of parents). This information includes colour scheme
             preferences, their allowances, the places they frequent, etc. We
             kept in mind the money management education they may have received.
             We implemented it in a way that encourages them to save money.
@@ -308,47 +308,46 @@ class ATMForKids extends Component {
         <h2 className="large-spacer-top col-5">Feedback:</h2>
         <div className="text-group">
           <p className="large-paragraph medium-spacer-bottom col-5">
-            We showed our project to Shubha ma’am who gave us some valuable
-            feedback
+            We showed our project to another faculty in college who gave us some
+            valuable feedback, including -
           </p>
           <p className="reflections col-2">
-            Dr. Shubha Puthran, our then Objected Oriented Software Engineering
-            Professor.
+            Aka, our then Objected Oriented Software Engineering Professor.
           </p>
         </div>
         <div className="text-group">
           <ul className="text-list medium-spacer-bottom col-5">
             <li>
-              She said that our UI is very good and appealing to kids with the
-              lively and bright colours.
+              Our UI is very good and appealing to kids with the lively and
+              bright colours.
             </li>
             <li>
-              She asked to add an extra layer of security, such as a biometric
+              We could add an extra layer of security, such as a biometric
               scanner.
             </li>
             <li>
-              Ma’am also said she likes the feature of parents receiving the
-              messages very good since parents can retain their peace of mind.
+              The feature of parents receiving messages very pretty good since
+              parents can stay in the loop.
             </li>
           </ul>
         </div>
         <h2 className="large-spacer-top col-5">Experimental Evaluation:</h2>
         <div className="text-group">
           <ul className="text-list medium-spacer-bottom col-5">
-            <li>Participants: Kids aged 10-15 and their guardians.</li>
+            <li>Participants: Kids aged 8-12 and their guardians.</li>
             <li>
-              Hypothesis: The colour schemes and the big touch screen buttons
-              helps interaction with the kids easier, keeping their interest in
+              Hypothesis: Bright colour schemes and the big touchscreen buttons
+              help interaction with the kids easier, keeping their interest in
               completing the transaction.
             </li>
             <li>
-              Independent variables: The assignment of pins, any biometric used,
-              the balance maintained.
+              Independent variables: Pin assignment, any biometric used, total
+              bank balance.
             </li>
             <li>
-              Dependent variables: The colour scheme since we let the kids
-              choose it, the balance to withdraw, the coins given as saving
-              initiators, the scratch cards given as withdrawal gifts.
+              Dependent variables: Colour scheme (since we let the kids choose
+              it), withdrawable bank balance, coins provided as saving
+              initiators, scratch cards provided as withdrawal gifts.
             </li>
             <li>
               Experimental design: The learning in this case is within-groups

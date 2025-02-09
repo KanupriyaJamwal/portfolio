@@ -21,18 +21,20 @@ class Hired extends Component {
             <span>
               <h3>01</h3>
             </span>
-            With large number of freshers applying for jobs and large number of
-            job posting available on job portals, it is difficult for Employer
-            as well as fresher to go through thousands of profile before
-            choosing their ideal employee and job respectively. <br></br>
+            With a large number of freshers applying for jobs and a large number
+            of job posts available on job portals, it is difficult for employers
+            as well as freshers to go through thousands of profiles before
+            choosing their ideal employee and job, respectively.
+            <br></br>
             <br></br>
             <span>
               <h3>02</h3>
             </span>
-            To tackle this problem and to personalise Job searching and hiring
-            experience, we proposed a recommendation system approach where most
-            suitable jobs will be recommended to freshers while the most
-            suitable candidate profile will be suggested to the employer.
+            To tackle this problem and to personalise the job searching and
+            hiring experience, we proposed a recommendation system approach
+            where the most suitable jobs will be recommended to freshers while
+            the most suitable candidate profile will be suggested to the
+            employer.
             <br></br>
             <br></br>
             <span>
@@ -60,7 +62,7 @@ class Hired extends Component {
           </p>
         </div>
 
-        <h2 className="large-spacer-top col-5">Literature Review</h2>
+        <h2 className="large-spacer-top col-5">Background Information</h2>
         <div className="text-group">
           <ul className="text-list medium-spacer-bottom col-5">
             <li>
@@ -406,10 +408,10 @@ class Hired extends Component {
             <span>
               <h3>01</h3>
             </span>
-            In the Information Technology industry, there are a lot of different
-            specialization fields and job profiles. These specific recruitment
+            In the information technology industry, there are a lot of different
+            specialisation fields and job profiles. These specific recruitment
             opportunities may be missed by the existing job recruitment systems
-            as they are very generalized. Our project focuses on the IT field
+            as they are very generalised. Our project focuses on the IT field
             specifically and proposes a platform that caters to IT specialists
             and other similar fields.
             <br></br>
@@ -417,27 +419,28 @@ class Hired extends Component {
             <span>
               <h3>02</h3>
             </span>
-            The proposed framework for Job Recommendation System is aimed at
+            The proposed framework for the Job Recommendation System is aimed at
             bridging the gap between employees and employers. The responses
             returned by the system were acceptable within a certain margin of
             error. Further studies into the topic can help enhance the precision
-            of the system. <br></br>
+            of the system.
+            <br></br>
             <br></br>
             <span>
               <h3>03</h3>
             </span>
-            The efforts were put to take into consideration the job preferences
-            of the candidates along with the content based profile matching. It
-            along with increasing the prediction accuracy also helped to solve
+            Efforts were made to take into consideration the job preferences of
+            the candidates along with the content-based profile matching. This,
+            along with increasing the prediction accuracy, also helped to solve
             the problem of providing direction to the candidates who are not
             clear about their job goals as general group preferences are
-            imposed. However, in the case of candidates having exceptional path
-            carriers, the system adapts itself by focusing on their latest job
-            preference behavior and providing them the list of recommendations
-            accordingly. Tracking the present preferences of the candidate
-            regarding the job, helps to prioritize only the relevant jobs as
-            against the irrelevant jobs that are shortlisted after the content
-            based matching of the candidate.
+            imposed. However, in the case of candidates having exceptional
+            career paths, the system adapts itself by focusing on their latest
+            job preference behaviour and providing them the list of
+            recommendations accordingly. Tracking the present preferences of the
+            candidate regarding the job helps to prioritise only the relevant
+            jobs as against the irrelevant jobs that are shortlisted after the
+            content-based matching of the candidate.
           </p>
 
           <p className="reflections col-2">
@@ -447,8 +450,7 @@ class Hired extends Component {
             <br></br>
             <br></br>
             <br></br>
-            <br></br>I hope potential recruiters read the entire page and hire
-            me.
+            <br></br>I hope potential recruiters read this and hire me.
           </p>
         </div>
       </section>
