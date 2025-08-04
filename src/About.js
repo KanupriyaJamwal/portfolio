@@ -25,11 +25,6 @@ class About extends Component {
 
                 <ul className="social-media col-1">
                   <li>
-                    <a href={CV} className="social-media-link" target="blank">
-                      Resume
-                    </a>
-                  </li>
-                  <li>
                     <a
                       href="mailto:kanupriyajamwal15@gmail.com"
                       className="social-media-link"
@@ -71,6 +66,15 @@ class About extends Component {
                       target="blank"
                     >
                       Twitter
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://instagram.com/kanupriya_jamwal/"
+                      className="social-media-link"
+                      target="blank"
+                    >
+                      Instagram
                     </a>
                   </li>
                 </ul>
