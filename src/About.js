@@ -43,6 +43,15 @@ class About extends Component {
                   </li>
                   <li>
                     <a
+                      href="https://kanupriyajamwal.substack.com/"
+                      className="social-media-link"
+                      target="blank"
+                    >
+                      Substack
+                    </a>
+                  </li>
+                  <li>
+                    <a
                       href="https://www.behance.net/kanupriyajamwal"
                       className="social-media-link"
                       target="blank"
