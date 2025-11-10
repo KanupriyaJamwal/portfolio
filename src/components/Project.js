@@ -13,6 +13,7 @@ import gorillaz from "../images/gorillaz.jpeg";
 import pegasus from "../images/pegasus.jpg";
 import superintelligence from "../images/superintelligence.jpg";
 import hallucination from "../images/hallucination.jpg";
+import darkside from "../images/darkside.png";
 
 import Hired from "../projects/Hired";
 import ATMForKids from "../projects/ATMForKids";
@@ -27,6 +28,7 @@ import Gorillaz from "../projects/Gorillaz";
 import Pegasus from "../projects/Pegasus";
 import Superintelligence from "../projects/Superintelligence";
 import Hallucination from "../projects/Hallucination";
+import DarkSide from "../projects/DarkSide";
 
 class ProjectContainer extends Component {
   _getProjectName = (project) => {
@@ -46,10 +48,10 @@ class ProjectContainer extends Component {
             header={hired}
             description="A Job Recommendation System"
             body={<Hired />}
-            prev_title="Cleopatrons"
-            prev_link="/project/cleopatrons"
-            next_title="Banksy"
-            next_link="/project/atm_for_kids"
+            //prev_title="Cleopatrons"
+            //prev_link="/project/cleopatrons"
+            //next_title="Banksy"
+            //next_link="/project/atm_for_kids"
           />
         );
         break;
@@ -60,10 +62,6 @@ class ProjectContainer extends Component {
             header={atmforkids}
             description="ATM For Kids"
             body={<ATMForKids />}
-            prev_title="Hired"
-            prev_link="/project/hired"
-            next_title="Cleopatrons"
-            next_link="/project/cleopatrons"
           />
         );
         break;
@@ -74,10 +72,6 @@ class ProjectContainer extends Component {
             header={cleopatrons}
             description="Cleopatra as a bartender"
             body={<Cleopatrons />}
-            prev_title="Banksy"
-            prev_link="/project/atm_for_kids"
-            next_title="Hired"
-            next_link="/project/hired"
           />
         );
         break;
@@ -88,10 +82,6 @@ class ProjectContainer extends Component {
             header={deuce}
             description="2 Player Game"
             body={<Deuce />}
-            prev_title="Cleopatrons"
-            prev_link="/project/cleopatrons"
-            next_title="Banksy"
-            next_link="/project/atm_for_kids"
           />
         );
         break;
@@ -102,10 +92,6 @@ class ProjectContainer extends Component {
             header={grandmamas}
             description="A Menu Preview App"
             body={<Grandmamas />}
-            prev_title="Cleopatrons"
-            prev_link="/project/cleopatrons"
-            next_title="Banksy"
-            next_link="/project/atm_for_kids"
           />
         );
         break;
@@ -116,10 +102,6 @@ class ProjectContainer extends Component {
             header={cagetheelephant}
             description="An Album Listening and Ordering Flow"
             body={<CageTheElephant />}
-            prev_title="Cleopatrons"
-            prev_link="/project/cleopatrons"
-            next_title="Banksy"
-            next_link="/project/atm_for_kids"
           />
         );
         break;
@@ -130,10 +112,6 @@ class ProjectContainer extends Component {
             header={railsafe}
             description="A Railway Monitoring and Derailment Prevention System"
             body={<RailSafe />}
-            prev_title="Cleopatrons"
-            prev_link="/project/cleopatrons"
-            next_title="Banksy"
-            next_link="/project/atm_for_kids"
           />
         );
         break;
@@ -144,10 +122,6 @@ class ProjectContainer extends Component {
             header={acedatingapp}
             description="Prelminary Research For an Asexual Dating App"
             body={<AceDatingApp />}
-            prev_title="Cleopatrons"
-            prev_link="/project/cleopatrons"
-            next_title="Banksy"
-            next_link="/project/atm_for_kids"
           />
         );
         break;
@@ -158,10 +132,6 @@ class ProjectContainer extends Component {
             header={bawarchi}
             description="Visual design for a recipe app"
             body={<Bawarchi />}
-            prev_title="Cleopatrons"
-            prev_link="/project/cleopatrons"
-            next_title="Banksy"
-            next_link="/project/atm_for_kids"
           />
         );
         break;
@@ -172,10 +142,6 @@ class ProjectContainer extends Component {
             header={gorillaz}
             description="A Transmedia Storytelling Case Study"
             body={<Gorillaz />}
-            prev_title="Cleopatrons"
-            prev_link="/project/cleopatrons"
-            next_title="Banksy"
-            next_link="/project/atm_for_kids"
           />
         );
         break; /*why not commit?*/
@@ -187,10 +153,6 @@ class ProjectContainer extends Component {
             description="Exploring the Intersection of Pegasus Spyware, Surveillance Realism, and
 Human Rights Implications in the Digital Era"
             body={<Pegasus />}
-            prev_title="Cleopatrons"
-            prev_link="/project/cleopatrons"
-            next_title="Banksy"
-            next_link="/project/atm_for_kids"
           />
         );
         break;
@@ -201,10 +163,6 @@ Human Rights Implications in the Digital Era"
             header={superintelligence}
             description="Envisioning AI Superintelligence Through a Transhumanist Lens"
             body={<Superintelligence />}
-            prev_title="Cleopatrons"
-            prev_link="/project/cleopatrons"
-            next_title="Banksy"
-            next_link="/project/atm_for_kids"
           />
         );
         break;
@@ -215,10 +173,16 @@ Human Rights Implications in the Digital Era"
             header={hallucination}
             description="Hallucinations in LLMs. What? How? Why?"
             body={<Hallucination />}
-            prev_title="Cleopatrons"
-            prev_link="/project/cleopatrons"
-            next_title="Banksy"
-            next_link="/project/atm_for_kids"
+          />
+        );
+        break;
+      case "/project/dark_side":
+        project = (
+          <Project
+            title="License to be Evil"
+            //header={darkside}
+            description="Fuck around and Find out (what really works)"
+            body={<DarkSide />}
           />
         );
         break;

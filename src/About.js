@@ -61,29 +61,20 @@ class About extends Component {
                   </li>
                   <li>
                     <a
-                      href="https://github.com/KanupriyaJamwal"
-                      className="social-media-link"
-                      target="blank"
-                    >
-                      Github
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://twitter.com/zoobydparampara"
-                      className="social-media-link"
-                      target="blank"
-                    >
-                      Twitter
-                    </a>
-                  </li>
-                  <li>
-                    <a
                       href="https://instagram.com/kanupriya_jamwal/"
                       className="social-media-link"
                       target="blank"
                     >
                       Instagram
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://soundcloud.com/kanupriya-jamwal-418826720/doorsvwheels"
+                      className="social-media-link"
+                      target="blank"
+                    >
+                      Podcast
                     </a>
                   </li>
                 </ul>

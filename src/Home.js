@@ -59,6 +59,25 @@ class Test extends Component {
               <div className="project-number col-1">
                 <h3>01</h3>
               </div>
+              <Link className="project-link fixed" to="/project/dark_side">
+                <div className="col-3 project-thumb-fixed">
+                  <img
+                    className="project-thumb"
+                    alt="Dark Side"
+                    src={require("./images/darkside.png")}
+                  />
+                </div>
+                <div className="col-3 project-title">
+                  <h6 className="active">Design</h6>
+                  <h2>License to be Evil</h2>
+                  <p>How to think like a villain to design for good</p>
+                </div>
+              </Link>
+            </li>
+            <li className="project col-8 nested">
+              <div className="project-number col-1">
+                <h3>02</h3>
+              </div>
               <Link className="project-link fixed" to="/project/grandmamas">
                 <div className="col-3 project-thumb-fixed">
                   <img
@@ -76,7 +95,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>02</h3>
+                <h3>03</h3>
               </div>
               <Link className="project-link fixed" to="/project/pegasus">
                 <div className="col-3 project-thumb-fixed">
@@ -95,7 +114,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>03</h3>
+                <h3>04</h3>
               </div>
               <Link className="project-link fixed" to="/project/railway">
                 <div className="col-3 project-thumb-fixed">
@@ -114,7 +133,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>04</h3>
+                <h3>05</h3>
               </div>
               <Link className="project-link fixed" to="/project/gorillaz">
                 <div className="col-3 project-thumb-fixed">
@@ -133,7 +152,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>05</h3>
+                <h3>06</h3>
               </div>
               <Link className="project-link fixed" to="/project/ace_dating_app">
                 <div className="col-3 project-thumb-fixed">
@@ -153,7 +172,7 @@ class Test extends Component {
 
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>06</h3>
+                <h3>07</h3>
               </div>
               <Link
                 className="project-link fixed"
@@ -175,7 +194,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>07</h3>
+                <h3>08</h3>
               </div>
               <Link className="project-link fixed" to="/project/hallucination">
                 <div className="col-3 project-thumb-fixed">
@@ -194,7 +213,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>08</h3>
+                <h3>09</h3>
               </div>
               <Link
                 className="project-link fixed"
@@ -216,7 +235,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>09</h3>
+                <h3>10</h3>
               </div>
               <Link className="project-link fixed" to="/project/hired">
                 <div className="col-3 project-thumb-fixed">
@@ -235,7 +254,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>10</h3>
+                <h3>11</h3>
               </div>
               <Link className="project-link fixed" to="/project/bawarchi">
                 <div className="col-3 project-thumb-fixed">
@@ -254,7 +273,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>11</h3>
+                <h3>12</h3>
               </div>
               <Link className="project-link fixed" to="/project/cleopatrons">
                 <div className="col-3 project-thumb-fixed">
@@ -273,7 +292,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>12</h3>
+                <h3>13</h3>
               </div>
               <Link className="project-link fixed" to="/project/atm_for_kids">
                 <div className="col-3 project-thumb-fixed">
