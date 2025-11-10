@@ -38,7 +38,7 @@ class Test extends Component {
               <div className="col-3 project-thumb-fixed">
                 <img
                   className="project-thumb"
-                  alt="Grandma"
+                  alt="Pace Yourself"
                   src={require("./images/paceyourself.png")}
                 />
               </div>

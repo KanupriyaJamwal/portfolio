@@ -13,7 +13,7 @@ import gorillaz from "../images/gorillaz.jpeg";
 import pegasus from "../images/pegasus.jpg";
 import superintelligence from "../images/superintelligence.jpg";
 import hallucination from "../images/hallucination.jpg";
-import darkside from "../images/darkside.png";
+//import darkside from "../images/darkside.png";
 
 import Hired from "../projects/Hired";
 import ATMForKids from "../projects/ATMForKids";
