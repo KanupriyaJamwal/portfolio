@@ -70,11 +70,11 @@ class About extends Component {
                   </li>
                   <li>
                     <a
-                      href="https://soundcloud.com/kanupriya-jamwal-418826720/doorsvwheels"
+                      href="https://www.youtube.com/@kanupriya_jamwal"
                       className="social-media-link"
                       target="blank"
                     >
-                      Podcast
+                      YouTube
                     </a>
                   </li>
                 </ul>
