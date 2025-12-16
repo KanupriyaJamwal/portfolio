@@ -301,6 +301,10 @@ class Bawarchi extends Component {
             options, cookbooks.
             <br></br>A few inspirations worth mentioning –
           </p>
+          <p className="reflections col-2">
+            Designing this app was so fun, it inspired me to try out a couple of
+            recipes myself.
+          </p>
         </div>
         <div className="text-group">
           <ul className="text-list medium-spacer-bottom col-5">
@@ -308,12 +312,6 @@ class Bawarchi extends Component {
             <li>Search categories from Twitter</li>
             <li>Stepwise playthrough from Nike Fitness App</li>
           </ul>
-        </div>
-        <div className="text-group">
-          <p className="large-paragraph medium-spacer-bottom col-5">
-            Designing this app was so fun, it inspired me to try out a couple of
-            recipes myself.
-          </p>
         </div>
       </section>
     );

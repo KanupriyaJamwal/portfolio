@@ -29,6 +29,7 @@ import Pegasus from "../projects/Pegasus";
 import Superintelligence from "../projects/Superintelligence";
 import Hallucination from "../projects/Hallucination";
 import DarkSide from "../projects/DarkSide";
+import Illustrations from "../projects/Illustrations";
 
 class ProjectContainer extends Component {
   _getProjectName = (project) => {
@@ -171,7 +172,7 @@ Human Rights Implications in the Digital Era"
           <Project
             title="AI Hallucination"
             header={hallucination}
-            description="Hallucinations in LLMs. What? How? Why?"
+            description="Do Androids Dream of Electric Sheep?"
             body={<Hallucination />}
           />
         );
@@ -183,6 +184,16 @@ Human Rights Implications in the Digital Era"
             //header={darkside}
             description="Fuck around and Find out (what really works)"
             body={<DarkSide />}
+          />
+        );
+        break;
+      case "/project/illustrations":
+        project = (
+          <Project
+            title="Illustrations"
+            //header={illustrations}
+            description="Some of my art"
+            body={<Illustrations />}
           />
         );
         break;

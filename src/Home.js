@@ -24,7 +24,7 @@ class Test extends Component {
               <strong>Kanupriya Jamwal</strong> is a Designer
             </h1>
             <h3 className="active col-3">
-              Research. Product. Strategy. Visual. AI. Data.
+              Research. Product. Strategy. Visual. AI. Data. UX.
             </h3>
           </div>
           <div className="header-image-wrapper">
@@ -68,7 +68,7 @@ class Test extends Component {
                   />
                 </div>
                 <div className="col-3 project-title">
-                  <h6 className="active">Design</h6>
+                  <h6 className="active">Strategy</h6>
                   <h2>License to be Evil</h2>
                   <p>How to think like a villain to design for good</p>
                 </div>
@@ -106,9 +106,9 @@ class Test extends Component {
                   />
                 </div>
                 <div className="col-3 project-title">
-                  <h6 className="active">Essay</h6>
+                  <h6 className="active">Surveillance</h6>
                   <h2>Pegasus</h2>
-                  <p>Data & Society: The state of surveillance</p>
+                  <p>The state of surveillance</p>
                 </div>
               </Link>
             </li>
@@ -144,35 +144,16 @@ class Test extends Component {
                   />
                 </div>
                 <div className="col-3 project-title">
-                  <h6 className="active">Essay</h6>
+                  <h6 className="active">Stortelling</h6>
                   <h2>Gorillaz</h2>
-                  <p>Creative & Interactive Media: It's lore on lore on lore</p>
-                </div>
-              </Link>
-            </li>
-            <li className="project col-8 nested">
-              <div className="project-number col-1">
-                <h3>06</h3>
-              </div>
-              <Link className="project-link fixed" to="/project/ace_dating_app">
-                <div className="col-3 project-thumb-fixed">
-                  <img
-                    className="project-thumb"
-                    alt="ACE Dating App"
-                    src={require("./images/acedatingapp.png")}
-                  />
-                </div>
-                <div className="col-3 project-title">
-                  <h6 className="active">Research</h6>
-                  <h2>Asexual Dating App</h2>
-                  <p>Is there a need for an asexual dating app?</p>
+                  <p>It's lore on lore on lore</p>
                 </div>
               </Link>
             </li>
 
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>07</h3>
+                <h3>06</h3>
               </div>
               <Link
                 className="project-link fixed"
@@ -194,7 +175,7 @@ class Test extends Component {
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>08</h3>
+                <h3>07</h3>
               </div>
               <Link className="project-link fixed" to="/project/hallucination">
                 <div className="col-3 project-thumb-fixed">
@@ -205,15 +186,15 @@ class Test extends Component {
                   />
                 </div>
                 <div className="col-3 project-title">
-                  <h6 className="active">Essay</h6>
+                  <h6 className="active">AI</h6>
                   <h2>AI Hallucination</h2>
-                  <p>AI & Ethics - An ML Case Study</p>
+                  <p>Hallucinations in LLMs. What? How? Why?</p>
                 </div>
               </Link>
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>09</h3>
+                <h3>08</h3>
               </div>
               <Link
                 className="project-link fixed"
@@ -227,34 +208,16 @@ class Test extends Component {
                   />
                 </div>
                 <div className="col-3 project-title">
-                  <h6 className="active">Essay</h6>
+                  <h6 className="active">AI</h6>
                   <h2>AI Superintelligence</h2>
-                  <p>AI & Ethics - Can AI be good?</p>
+                  <p>Can AI be good?</p>
                 </div>
               </Link>
             </li>
+
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>10</h3>
-              </div>
-              <Link className="project-link fixed" to="/project/hired">
-                <div className="col-3 project-thumb-fixed">
-                  <img
-                    className="project-thumb"
-                    alt="Created a Job Recommendation System in college because we weren't getting any jobs"
-                    src={require("./images/hired_stamp.png")}
-                  />
-                </div>
-                <div className="col-3 project-title">
-                  <h6 className="active">Development</h6>
-                  <h2>Hired</h2>
-                  <p>How can we get hired?</p>
-                </div>
-              </Link>
-            </li>
-            <li className="project col-8 nested">
-              <div className="project-number col-1">
-                <h3>11</h3>
+                <h3>09</h3>
               </div>
               <Link className="project-link fixed" to="/project/bawarchi">
                 <div className="col-3 project-thumb-fixed">
@@ -268,44 +231,6 @@ class Test extends Component {
                   <h6 className="active">Design</h6>
                   <h2>Bawarchi</h2>
                   <p>How to cook?</p>
-                </div>
-              </Link>
-            </li>
-            <li className="project col-8 nested">
-              <div className="project-number col-1">
-                <h3>12</h3>
-              </div>
-              <Link className="project-link fixed" to="/project/cleopatrons">
-                <div className="col-3 project-thumb-fixed">
-                  <img
-                    className="project-thumb"
-                    alt="Cleopatra would be a bartender with mad patrons around"
-                    src={require("./images/cleopatrons.jpg")}
-                  />
-                </div>
-                <div className="col-3 project-title">
-                  <h6 className="active">Illustration</h6>
-                  <h2>Cleopatrons</h2>
-                  <p>If Cleopatra was not queen</p>
-                </div>
-              </Link>
-            </li>
-            <li className="project col-8 nested">
-              <div className="project-number col-1">
-                <h3>13</h3>
-              </div>
-              <Link className="project-link fixed" to="/project/atm_for_kids">
-                <div className="col-3 project-thumb-fixed">
-                  <img
-                    className="project-thumb"
-                    alt="For an HCI project, we made UI and prototype for an ATM for kids"
-                    src={require("./images/banksy.jpg")}
-                  />
-                </div>
-                <div className="col-3 project-title">
-                  <h6 className="active">Design</h6>
-                  <h2>Banksy</h2>
-                  <p>Even kids need money now</p>
                 </div>
               </Link>
             </li>
