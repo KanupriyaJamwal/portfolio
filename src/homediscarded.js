@@ -75,4 +75,26 @@
                 </div>
               </Link>
             </li>
+            <li className="project col-8 nested">
+                          <div className="project-number col-1">
+                            <h3>04</h3>
+                          </div>
+                          <Link
+                            className="project-link fixed"
+                            to="/project/cage_the_elephant"
+                          >
+                            <div className="col-3 project-thumb-fixed">
+                              <img
+                                className="project-thumb"
+                                alt="Band pic"
+                                src={require("./images/cagetheelephant.jpg")}
+                              />
+                            </div>
+                            <div className="col-3 project-title">
+                              <h6 className="active">Design</h6>
+                              <h2>Cage The Elephant</h2>
+                              <p>How to get an album listening and ordering flow?</p>
+                            </div>
+                          </Link>
+                        </li>
 */
