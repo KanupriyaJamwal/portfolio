@@ -97,4 +97,23 @@
                             </div>
                           </Link>
                         </li>
+                        <li className="project col-8 nested">
+                                      <div className="project-number col-1">
+                                        <h3>05</h3>
+                                      </div>
+                                      <Link className="project-link fixed" to="/project/hallucination">
+                                        <div className="col-3 project-thumb-fixed">
+                                          <img
+                                            className="project-thumb"
+                                            alt="hallucination"
+                                            src={require("./images/hallucination.jpg")}
+                                          />
+                                        </div>
+                                        <div className="col-3 project-title">
+                                          <h6 className="active">AI</h6>
+                                          <h2>AI Hallucination</h2>
+                                          <p>Hallucinations in LLMs. What? How? Why?</p>
+                                        </div>
+                                      </Link>
+                                    </li>
 */

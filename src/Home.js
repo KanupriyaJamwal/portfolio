@@ -132,28 +132,10 @@ class Test extends Component {
                 </div>
               </Link>
             </li>
+
             <li className="project col-8 nested">
               <div className="project-number col-1">
                 <h3>05</h3>
-              </div>
-              <Link className="project-link fixed" to="/project/hallucination">
-                <div className="col-3 project-thumb-fixed">
-                  <img
-                    className="project-thumb"
-                    alt="hallucination"
-                    src={require("./images/hallucination.jpg")}
-                  />
-                </div>
-                <div className="col-3 project-title">
-                  <h6 className="active">AI</h6>
-                  <h2>AI Hallucination</h2>
-                  <p>Hallucinations in LLMs. What? How? Why?</p>
-                </div>
-              </Link>
-            </li>
-            <li className="project col-8 nested">
-              <div className="project-number col-1">
-                <h3>06</h3>
               </div>
               <Link
                 className="project-link fixed"
@@ -168,14 +150,14 @@ class Test extends Component {
                 </div>
                 <div className="col-3 project-title">
                   <h6 className="active">AI</h6>
-                  <h2>AI Superintelligence</h2>
+                  <h2>Superintelligence</h2>
                   <p>Can AI be good?</p>
                 </div>
               </Link>
             </li>
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>07</h3>
+                <h3>06</h3>
               </div>
               <Link className="project-link fixed" to="/project/pegasus">
                 <div className="col-3 project-thumb-fixed">
@@ -195,7 +177,7 @@ class Test extends Component {
 
             <li className="project col-8 nested">
               <div className="project-number col-1">
-                <h3>08</h3>
+                <h3>07</h3>
               </div>
               <Link className="project-link fixed" to="/project/gorillaz">
                 <div className="col-3 project-thumb-fixed">
@@ -209,6 +191,25 @@ class Test extends Component {
                   <h6 className="active">Case Study</h6>
                   <h2>Gorillaz</h2>
                   <p>Storytelling: It's lore on lore on lore</p>
+                </div>
+              </Link>
+            </li>
+            <li className="project col-8 nested">
+              <div className="project-number col-1">
+                <h3>08</h3>
+              </div>
+              <Link className="project-link fixed" to="/project/illustrations">
+                <div className="col-3 project-thumb-fixed">
+                  <img
+                    className="project-thumb"
+                    alt="art"
+                    src={require("./images/illustrations.png")}
+                  />
+                </div>
+                <div className="col-3 project-title">
+                  <h6 className="active">Art</h6>
+                  <h2>Illustrations</h2>
+                  <p>I also create digital art</p>
                 </div>
               </Link>
             </li>

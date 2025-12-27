@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9fddb311.css",
-    "main.js": "/portfolio/static/js/main.83297e26.js",
+    "main.js": "/portfolio/static/js/main.8a963909.js",
     "static/media/HCI DP 2024 - 2 page.pdf": "/portfolio/static/media/HCI DP 2024 - 2 page.c18cfa6549e73595f385.pdf",
     "static/media/prototype.gif": "/portfolio/static/media/prototype.45ae442c8b6110dd5c62.gif",
     "static/media/ctg_site.gif": "/portfolio/static/media/ctg_site.e19ab584c4c775285b65.gif",
@@ -10,8 +10,11 @@
     "static/media/darkside.png": "/portfolio/static/media/darkside.178d186de311bb62c77d.png",
     "static/media/slide_12.png": "/portfolio/static/media/slide_12.178d186de311bb62c77d.png",
     "static/media/slide_17.png": "/portfolio/static/media/slide_17.a6e0b3ab3e9e16f88ef5.png",
+    "static/media/truck dhaba.png": "/portfolio/static/media/truck dhaba.8d4543641bcd058865cb.png",
     "static/media/slide_11.png": "/portfolio/static/media/slide_11.4d477b6999ff5734679a.png",
     "static/media/slide_1.png": "/portfolio/static/media/slide_1.32ccb1606970a0a6a498.png",
+    "static/media/illustrations.png": "/portfolio/static/media/illustrations.c1b754eaae0af8992d2e.png",
+    "static/media/time.png": "/portfolio/static/media/time.c1b754eaae0af8992d2e.png",
     "static/media/slide_14.png": "/portfolio/static/media/slide_14.4a7e6f3aa235125356a9.png",
     "static/media/slide_15.png": "/portfolio/static/media/slide_15.2b0e058ea292c7bbbc35.png",
     "static/media/affinity.jpg": "/portfolio/static/media/affinity.c47491ee0daa36f2075c.jpg",
@@ -42,6 +45,7 @@
     "static/media/page2.jpg": "/portfolio/static/media/page2.ea728ceac3678e1d935f.jpg",
     "static/media/slide_8.png": "/portfolio/static/media/slide_8.05605ad1bdc80428ee74.png",
     "static/media/cleopatra-bartender-sketch.jpg": "/portfolio/static/media/cleopatra-bartender-sketch.c68b36ed7b5379177e97.jpg",
+    "static/media/busy city.png": "/portfolio/static/media/busy city.80adb96545961e227b77.png",
     "static/media/slide_19.png": "/portfolio/static/media/slide_19.d49c0a6966d97c10a6ea.png",
     "static/media/nav.gif": "/portfolio/static/media/nav.9db34a7387bdf1bcddba.gif",
     "static/media/hallucination.jpg": "/portfolio/static/media/hallucination.c645ea858b29536b6da5.jpg",
@@ -49,7 +53,9 @@
     "static/media/design_process.png": "/portfolio/static/media/design_process.89343a944df7d58bed18.png",
     "static/media/slide_5.png": "/portfolio/static/media/slide_5.0ce2fdd943ab6ccb9b35.png",
     "static/media/mockup_6.png": "/portfolio/static/media/mockup_6.0f9482f410f6f6db591a.png",
+    "static/media/queue.png": "/portfolio/static/media/queue.4839910b6819d4978723.png",
     "static/media/train_dashboard.png": "/portfolio/static/media/train_dashboard.1ec7e61ea2204d3583bd.png",
+    "static/media/perspective.png": "/portfolio/static/media/perspective.7c1d1dc159089ebc5285.png",
     "static/media/Rip-Off_Bar_Inside.webp": "/portfolio/static/media/Rip-Off_Bar_Inside.12de0916efc5e38f09f8.webp",
     "static/media/slide_6.png": "/portfolio/static/media/slide_6.5fbfe36a70d1aadd9326.png",
     "static/media/paceyourself.png": "/portfolio/static/media/paceyourself.4c39230000b05d0b8b61.png",
@@ -142,10 +148,10 @@
     "static/media/signup-uc.png": "/portfolio/static/media/signup-uc.333fd27549bf66bfcaa4.png",
     "index.html": "/portfolio/index.html",
     "main.9fddb311.css.map": "/portfolio/static/css/main.9fddb311.css.map",
-    "main.83297e26.js.map": "/portfolio/static/js/main.83297e26.js.map"
+    "main.8a963909.js.map": "/portfolio/static/js/main.8a963909.js.map"
   },
   "entrypoints": [
     "static/css/main.9fddb311.css",
-    "static/js/main.83297e26.js"
+    "static/js/main.8a963909.js"
   ]
 }
