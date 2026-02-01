@@ -34,7 +34,13 @@ class Test extends Component {
 
         <section className="projects-wrapper" style={{ marginBottom: "0" }}>
           <div className="projects project col-8 offset-3 nested">
-            <a className="project-link fixed" href={HCIDP2024} target="blank">
+            <a
+              className="project-link fixed"
+              href={
+                "https://drive.google.com/file/d/1_4jJz3v-7t_ua6ueyuBiUOQGUKCxicWE/view?usp=sharing"
+              }
+              target="blank"
+            >
               <div className="col-3 project-thumb-fixed">
                 <img
                   className="project-thumb"
